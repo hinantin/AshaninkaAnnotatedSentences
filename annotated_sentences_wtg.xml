@@ -5971,12 +5971,12 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="3.91">
 <normal istandard="yes">Iyoka te intomintyari atziri.</normal>
 <annotation_first_level>yoka te i=N-tomiNt-ia=ri atziri</annotation_first_level>
-<annotation_second_level>this.m NEG.REAL 3m.A=IRR-be.son.of-IRR=3m.O person</annotation_second_level>
+<annotation_second_level>this.m. NEG.REAL 3m.A=IRR-be.son.of-IRR=3m.O person</annotation_second_level>
 <translation lang="en">This is not the man’s son.</translation>
 <words>
-<word type="other"><n>Iyoka</n><afl>yoka</afl><asl>this.m</asl>
+<word type="other"><n>Iyoka</n><afl>yoka</afl><asl>this.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>yoka</e_afl><e_asl>this.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>yoka</e_afl><e_asl>this.m.</e_asl></element>
 </elements>
 </word>
 <word type="other"><n>te</n><afl>te</afl><asl>NEG.REAL</asl>
@@ -6756,7 +6756,7 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="3.114">
 <normal istandard="yes">Iyovaritakotakina apa antaro korarintsi.</normal>
 <annotation_first_level>i=kovari-t-ako-t-ak-i=na apa aNtaro korarintsi</annotation_first_level>
-<annotation_second_level>3m.A=corral-EP-APPL-EP-PRF-REAL=1SG.O father big.n.m corral.n.m.</annotation_second_level>
+<annotation_second_level>3m.A=corral-EP-APPL-EP-PRF-REAL=1SG.O father big.n.m. corral.n.m.</annotation_second_level>
 <translation lang="en">My father built a big corral for me.</translation>
 <words>
 <word type="verb"><n>Iyovaritakotakina</n><afl>i=kovari-t-ako-t-ak-i=na</afl><asl>3m.A=corral-EP-APPL-EP-PRF-REAL=1SG.O</asl>
@@ -6776,9 +6776,9 @@ a=@K.LENITION.Ø@itsoki
 <element sign="none;isroot:yes"><e_afl>apa</e_afl><e_asl>father</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>antaro</n><afl>aNtaro</afl><asl>big.n.m</asl>
+<word type="other"><n>antaro</n><afl>aNtaro</afl><asl>big.n.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>aNtaro</e_afl><e_asl>big.n.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>aNtaro</e_afl><e_asl>big.n.m.</e_asl></element>
 </elements>
 </word>
 <word type="noun"><n>korarintsi</n><afl>korarintsi</afl><asl>corral.n.m.</asl>
@@ -6792,7 +6792,7 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="3.115">
 <normal istandard="yes">Nantavaitaki osipitariki antaropaye.</normal>
 <annotation_first_level>n=aNta-vai-t-ak-i osipitari-ki aNtaro-paye</annotation_first_level>
-<annotation_second_level>1SG.S=work-DUR-EP-PRF-REAL hospital-LOC big.n.m-PL</annotation_second_level>
+<annotation_second_level>1SG.S=work-DUR-EP-PRF-REAL hospital-LOC big.n.m.-PL</annotation_second_level>
 <translation lang="en">I worked in big hospitals.</translation>
 <words>
 <word type="verb"><n>Nantavaitaki</n><afl>n=aNta-vai-t-ak-i</afl><asl>1SG.S=work-DUR-EP-PRF-REAL</asl>
@@ -6811,9 +6811,9 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>ki</e_afl><e_asl>LOC</e_asl></element>
 </elements>
 </word>
-<word type="noun"><n>antaropaye</n><afl>aNtaro-paye</afl><asl>big.n.m-PL</asl>
+<word type="noun"><n>antaropaye</n><afl>aNtaro-paye</afl><asl>big.n.m.-PL</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>aNtaro</e_afl><e_asl>big.n.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>aNtaro</e_afl><e_asl>big.n.m.</e_asl></element>
 <element sign="hyphen"><e_afl>paye</e_afl><e_asl>PL</e_asl></element>
 </elements>
 </word>
@@ -6823,7 +6823,7 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="3.116">
 <normal istandard="yes">Isaiki antaroki inchato.</normal>
 <annotation_first_level>i=saik-i aNtaro-ki inchato</annotation_first_level>
-<annotation_second_level>3m.S=be.at-REAL big.n.m-LOC tree</annotation_second_level>
+<annotation_second_level>3m.S=be.at-REAL big.n.m.-LOC tree</annotation_second_level>
 <translation lang="en">It was in the big tree.</translation>
 <words>
 <word type="verb"><n>Isaiki</n><afl>i=saik-i</afl><asl>3m.S=be.at-REAL</asl>
@@ -6833,9 +6833,9 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>i</e_afl><e_asl>REAL</e_asl></element>
 </elements>
 </word>
-<word type="noun"><n>antaroki</n><afl>aNtaro-ki</afl><asl>big.n.m-LOC</asl>
+<word type="noun"><n>antaroki</n><afl>aNtaro-ki</afl><asl>big.n.m.-LOC</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>aNtaro</e_afl><e_asl>big.n.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>aNtaro</e_afl><e_asl>big.n.m.</e_asl></element>
 <element sign="hyphen"><e_afl>ki</e_afl><e_asl>LOC</e_asl></element>
 </elements>
 </word>
@@ -13531,7 +13531,7 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="4.38">
 <normal istandard="yes">Aka nosankinatakiri kosaniri.</normal>
 <annotation_first_level>aka no=saNkina-t-ak-i=ri kosaniri</annotation_first_level>
-<annotation_second_level>here 1SG.A=draw-EP-PRF-REAL=3m.O crocodile.m</annotation_second_level>
+<annotation_second_level>here 1SG.A=draw-EP-PRF-REAL=3m.O crocodile.m.</annotation_second_level>
 <translation lang="en">I’ve painted a crocodile here.</translation>
 <words>
 <word type="other"><n>Aka</n><afl>aka</afl><asl>here</asl>
@@ -13549,9 +13549,9 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ri</e_afl><e_asl>3m.O</e_asl></element>
 </elements>
 </word>
-<word type="noun"><n>kosaniri</n><afl>kosaniri</afl><asl>crocodile.m</asl>
+<word type="noun"><n>kosaniri</n><afl>kosaniri</afl><asl>crocodile.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>kosaniri</e_afl><e_asl>crocodile.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>kosaniri</e_afl><e_asl>crocodile.m.</e_asl></element>
 </elements>
 </word>
 </words>
@@ -13560,7 +13560,7 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="4.39">
 <normal istandard="yes">Ponyashitaka ivaitakina antari kitsapi aka noyempitaki.</normal>
 <annotation_first_level>ponyashitaka i=v-ai-t-ak-i=na aNtari kitsapi aka no=yeNpita-ki</annotation_first_level>
-<annotation_second_level>afterwards 3m.A=put-IMP.P-EP-PRF-REAL=1SG.O big.m needle.m here 1SG.poss=ear-LOC</annotation_second_level>
+<annotation_second_level>afterwards 3m.A=put-IMP.P-EP-PRF-REAL=1SG.O big.m. needle.m. here 1SG.poss=ear-LOC</annotation_second_level>
 <translation lang="en">Then they stuck a big needle in me here, near my ear.</translation>
 <words>
 <word type="other"><n>Ponyashitaka</n><afl>ponyashitaka</afl><asl>afterwards</asl>
@@ -13579,14 +13579,14 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>na</e_afl><e_asl>1SG.O</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>antari</n><afl>aNtari</afl><asl>big.m</asl>
+<word type="other"><n>antari</n><afl>aNtari</afl><asl>big.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>aNtari</e_afl><e_asl>big.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>aNtari</e_afl><e_asl>big.m.</e_asl></element>
 </elements>
 </word>
-<word type="noun"><n>kitsapi</n><afl>kitsapi</afl><asl>needle.m</asl>
+<word type="noun"><n>kitsapi</n><afl>kitsapi</afl><asl>needle.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>kitsapi</e_afl><e_asl>needle.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>kitsapi</e_afl><e_asl>needle.m.</e_asl></element>
 </elements>
 </word>
 <word type="other"><n>aka</n><afl>aka</afl><asl>here</asl>
@@ -14403,12 +14403,12 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="4.58">
 <normal istandard="yes">Irika evankarika ikovi oninteri iina.</normal>
 <annotation_first_level>[irika evaNkari=ka i=kov-i]MC [o=niNt-e=ri i=ina]DC</annotation_first_level>
-<annotation_second_level>this.m young.man=this 3m.S=want-REAL 3n.m.A=love-IRR=3m.O 3m.poss=wife</annotation_second_level>
+<annotation_second_level>this.m. young.man=this 3m.S=want-REAL 3n.m.A=love-IRR=3m.O 3m.poss=wife</annotation_second_level>
 <translation lang="en">This young man wanted his wife to love him.</translation>
 <words>
-<word type="other"><n>Irika</n><afl>irika</afl><asl>this.m</asl>
+<word type="other"><n>Irika</n><afl>irika</afl><asl>this.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>irika</e_afl><e_asl>this.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>irika</e_afl><e_asl>this.m.</e_asl></element>
 </elements>
 </word>
 <word type="noun"><n>evankarika</n><afl>evaNkari=ka</afl><asl>young.man=this</asl>
@@ -16790,8 +16790,8 @@ a=@K.LENITION.Ø@itsoki
 
 <sentence source_id="A0001" id="4.120">
 <normal istandard="yes">Ari onkantake ayero nyaantsi arika anyaanate.</normal>
-<annotation_first_level>ari [o=N-kaNt-ak-e]ME [ay-e=ro nyaantsi]DE arika a=nyaana-t-e</annotation_first_level>
-<annotation_second_level>PP 1PL.S=IRR-be.able-PRF-IRR 1PL.get-IRR=3n.m.O word when 1PL.S=study-EP-IRR</annotation_second_level>
+<annotation_first_level>ari [o=N-kaNt-ak-e]ME [ay-e=ro nyaa-ntsi]DE arika a=nyaana-t-e</annotation_first_level>
+<annotation_second_level>PP 1PL.S=IRR-be.able-PRF-IRR 1PL.get-IRR=3n.m.O word-ABS when 1PL.S=study-EP-IRR</annotation_second_level>
 <translation lang="en">We will be able to learn the language if we study.</translation>
 <words>
 <word type="other"><n>Ari</n><afl>ari</afl><asl>PP</asl>
@@ -16815,9 +16815,10 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ro</e_afl><e_asl>3n.m.O</e_asl></element>
 </elements>
 </word>
-<word type="noun"><n>nyaantsi</n><afl>nyaantsi</afl><asl>word</asl>
+<word type="noun"><n>nyaantsi</n><afl>nyaa-ntsi</afl><asl>word-ABS</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>nyaantsi</e_afl><e_asl>word</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>nyaa</e_afl><e_asl>word</e_asl></element>
+<element sign="hyphen"><e_afl>ntsi</e_afl><e_asl>ABS</e_asl></element>
 </elements>
 </word>
 <word type="other"><n>arika</n><afl>arika</afl><asl>when</asl>
@@ -22082,7 +22083,7 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="4.229">
 <normal istandard="yes">Pairani tzimatsi aparoni ashaninka vatsantsi, aintziri iina, kantzimaitacha te ikovintsate.</normal>
 <annotation_first_level>[pairani tzimatsi aparoni ashaniNka vatsantzi a-aintsi=ri i=ina]MC [kantzimaitacha te i=kovintsa-t-e]MC</annotation_first_level>
-<annotation_second_level>before EXIST one our.fellowman fat.m take-STAT.T=REL 3m.poss=wife nevertheless NEG.REAL 3m.S=hunt-EP-IRR</annotation_second_level>
+<annotation_second_level>before EXIST one our.fellowman fat.m. take-STAT.T=REL 3m.poss=wife nevertheless NEG.REAL 3m.S=hunt-EP-IRR</annotation_second_level>
 <translation lang="en">Long ago there was a fat man who had a wife, nevertheless [surprisingly] he wasn’t a good hunter.</translation>
 <words>
 <word type="other"><n>Pairani</n><afl>pairani</afl><asl>before</asl>
@@ -22105,9 +22106,9 @@ a=@K.LENITION.Ø@itsoki
 <element sign="none;isroot:yes"><e_afl>ashaniNka</e_afl><e_asl>our.fellowman</e_asl></element>
 </elements>
 </word>
-<word type="noun"><n>vatsantsi</n><afl>vatsantzi</afl><asl>fat.m</asl>
+<word type="noun"><n>vatsantsi</n><afl>vatsantzi</afl><asl>fat.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>vatsantzi</e_afl><e_asl>fat.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>vatsantzi</e_afl><e_asl>fat.m.</e_asl></element>
 </elements>
 </word>
 <word type="verb"><n>aintziri</n><afl>a-aintsi=ri</afl><asl>take-STAT.T=REL</asl>
@@ -22815,7 +22816,7 @@ a=@K.LENITION.Ø@itsoki
 <sentence source_id="A0001" id="B.1.6.">
 <normal istandard="yes">Nookanakiniri irora ejercicio ikantaitziro iroori antavairintsi, yantavaiteta eentsipatsaini.</normal>
 <annotation_first_level>n=ook-an-ak-i=ni=ri irora ejercicio i=kaNt-ai-tz-i=ro iroori aNtavai-rintsi y=aNt-a-vai-t-e=ta eentsi-patsaini</annotation_first_level>
-<annotation_second_level>1SG.A=leave-DIR-PRF-REAL=3O=3m.O DEM exercise 3m.A=say-IMP.P-EP-REAL=3n.m.O they.n.m work-NMZ 3m.S=make-EP-DUR-EP-IRR=OPT child-DIM</annotation_second_level>
+<annotation_second_level>1SG.A=leave-DIR-PRF-REAL=3O=3m.O DEM exercise 3m.A=say-IMP.P-EP-REAL=3n.m.O they.n.m. work-NMZ 3m.S=make-EP-DUR-EP-IRR=OPT child-DIM</annotation_second_level>
 <translation lang="en">I assign exercises to them what they call assignment; the children should do [it] for a while.</translation>
 <words>
 <word type="verb"><n>Nookanakiniri</n><afl>n=ook-an-ak-i=ni=ri</afl><asl>1SG.A=leave-DIR-PRF-REAL=3O=3m.O</asl>
@@ -22849,9 +22850,9 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ro</e_afl><e_asl>3n.m.O</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>iroori</n><afl>iroori</afl><asl>they.n.m</asl>
+<word type="other"><n>iroori</n><afl>iroori</afl><asl>they.n.m.</asl>
 <elements>
-<element sign="none;isroot:yes"><e_afl>iroori</e_afl><e_asl>they.n.m</e_asl></element>
+<element sign="none;isroot:yes"><e_afl>iroori</e_afl><e_asl>they.n.m.</e_asl></element>
 </elements>
 </word>
 <word type="verb"><n>antavairintsi</n><afl>aNtavai-rintsi</afl><asl>work-NMZ</asl>
@@ -29034,8 +29035,8 @@ she 2S=say-IRR 3m.A=write-EP-IRR=2O=OPT
 
   <sentence source_id="A0005" id="RIC.1.02.">
     <normal istandard="no">Tsika Ikantaitziro Ñaantsipaye</normal>
-    <nonstandard_annotation_first_level>tsika i=kaNt-ai-tz-i=ro ñaantsi-paye</nonstandard_annotation_first_level>
-    <annotation_first_level>tsika i=kaNt-ai-tz-i=ro nyaantsi-paye</annotation_first_level>
+    <nonstandard_annotation_first_level>tsika i=kaNt-ai-tz-i=ro ñaa-ntsi-paye</nonstandard_annotation_first_level>
+    <annotation_first_level>tsika i=kaNt-ai-tz-i=ro nyaa-ntsi-paye</annotation_first_level>
     <annotation_second_level>where 3m.A=say-IMP.P-EP-REAL=3n.m.O word-PL</annotation_second_level>
     <translation lang="en">non-available</translation>
     <words>
@@ -29054,9 +29055,10 @@ she 2S=say-IRR 3m.A=write-EP-IRR=2O=OPT
           <element sign="equal"><e_afl>ro</e_afl><e_asl>3n.m.O</e_asl></element>
         </elements>
       </word>
-      <word type="noun"><n>Ñaantsipaye</n><afl>nyaantsi-paye</afl><asl>word-PL</asl>
+      <word type="noun"><n>Ñaantsipaye</n><afl>nyaa-ntsi-paye</afl><asl>word-ABS-PL</asl>
         <elements>
-          <element sign="none;isroot:yes"><n>ñaantsi</n><e_afl>nyaantsi</e_afl><e_asl>word</e_asl></element>
+          <element sign="none;isroot:yes"><n>ñaantsi</n><e_afl>nyaa</e_afl><e_asl>word</e_asl></element>
+          <element sign="hyphen"><e_afl>ntsi</e_afl><e_asl>ABS</e_asl></element>
           <element sign="hyphen"><n>paye</n><e_afl>paye</e_afl><e_asl>PL</e_asl></element>
         </elements>
       </word>
@@ -29866,7 +29868,7 @@ identify-EP-DIR-CAUS-DIR-PFV-REAL DEM.ID.N.M=DEM DEM.ID.M=DEM man
     </annotation_source>
     <normal istandard="yes">Ookotavakanaka, "Hiroka, hirika shirampari."</normal>
     <annotation_first_level>ooko-t-av-ak-an-ak-a hiro=ka hiri=ka shirampari</annotation_first_level>
-    <annotation_second_level>identify-EP-DIR-CAUS-DIR-PFV-REAL DEM.ID.N.M=DEM DEM.ID.M=DEM man</annotation_second_level>
+    <annotation_second_level>identify-EP-DIR-CAUS-DIR-PFV-REAL DEM.ID.n.m.=DEM DEM.ID.M=DEM man</annotation_second_level>
     <translation lang="en">'Together with those who accompanied her, she identified them [villagers] as witches: "Here she is, here is the man."'</translation>
     <words>
       <word type="verb"><n>Ookotavakanaka</n><afl>ooko-t-av-ak-an-ak-a</afl><asl>identify-EP-DIR-CAUS-DIR-PFV-REAL</asl>
@@ -29882,13 +29884,13 @@ identify-EP-DIR-CAUS-DIR-PFV-REAL DEM.ID.N.M=DEM DEM.ID.M=DEM man
       </word>
       <word type="other"><n>Hiroka</n><afl>hiro=ka</afl><asl>DEM.ID.N.M=DEM</asl>
         <elements>
-          <element sign="none;isroot:yes"><e_afl>hiro</e_afl><e_asl>DEM.ID.N.M</e_asl></element>
+          <element sign="none;isroot:yes"><e_afl>hiro</e_afl><e_asl>DEM.ID.n.m.</e_asl></element>
           <element sign="equal"><e_afl>ka</e_afl><e_asl>DEM</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>hirika</n><afl>hiri=ka</afl><asl>DEM.ID.M=DEM</asl>
+      <word type="other"><n>hirika</n><afl>hiri=ka</afl><asl>DEM.ID.m.=DEM</asl>
         <elements>
-          <element sign="none;isroot:yes"><e_afl>hiri</e_afl><e_asl>DEM.ID.M</e_asl></element>
+          <element sign="none;isroot:yes"><e_afl>hiri</e_afl><e_asl>DEM.ID.m.</e_asl></element>
           <element sign="equal"><e_afl>ka</e_afl><e_asl>DEM</e_asl></element>
         </elements>
       </word>
@@ -29912,12 +29914,12 @@ DEM.NOM.M mythical.creature 3M.S-be-EP-REAL
     </annotation_source>
     <normal istandard="yes">Iyoka, peyari inatzi.</normal>
     <annotation_first_level>iyoka peyari i-na-tz-i</annotation_first_level>
-    <annotation_second_level>DEM.NOM.M mythical.creature 3m.S-be-EP-REAL</annotation_second_level>
+    <annotation_second_level>DEM.NOM.m. mythical.creature 3m.S-be-EP-REAL</annotation_second_level>
     <translation lang="en">'This [one], he is Peyari.'</translation>
     <words>
-      <word type="other"><n>Iyoka</n><afl>iyoka</afl><asl>DEM.NOM.M</asl>
+      <word type="other"><n>Iyoka</n><afl>iyoka</afl><asl>DEM.NOM.m.</asl>
         <elements>
-          <element sign="none;isroot:yes"><e_afl>iyoka</e_afl><e_asl>DEM.NOM.M</e_asl></element>
+          <element sign="none;isroot:yes"><e_afl>iyoka</e_afl><e_asl>DEM.NOM.m.</e_asl></element>
         </elements>
       </word>
       <word type="noun"><n>peyari</n><afl>peyari</afl><asl>mythical.creature</asl>
@@ -30522,7 +30524,7 @@ let's 1PL.A=talk-EP-APPL-EP-IRR-3m.O NAME now name=DEM erect.dam-NMLZ 3m.S-be-EP
     </words>
   </sentence>
 
-  <sentence source_id="A0006" id="MIH.1.14">
+  <sentence source_id="A0006" id="MIH.1.14.">
     <annotation_source>
       <![CDATA[
 MIH.1.14

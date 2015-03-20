@@ -31,8 +31,10 @@
  <xs:enumeration value="Irina"/>
  <xs:enumeration value="Juan.Santos.Atahualpa"/>
  <xs:enumeration value="Kaari"/>
+ <xs:enumeration value="Kovari"/>
  <xs:enumeration value="Kovirya"/>
  <xs:enumeration value="MachiyeNka"/>
+ <xs:enumeration value="Maninkanironi"/>
  <xs:enumeration value="Marankiaro"/>
  <xs:enumeration value="Meantarini"/>
  <xs:enumeration value="Metaaro"/>
@@ -60,10 +62,11 @@
  <xs:enumeration value="Tsiirisi"/>
  <xs:enumeration value="Tsirani"/>
  <xs:enumeration value="Tziivito"/>
+ <xs:enumeration value="Tzivyaarini"/>
  <xs:enumeration value="Vela"/>
  <xs:enumeration value="a"/>
+ <xs:enumeration value="aNpe"/>
  <xs:enumeration value="aNpee"/>
- <xs:enumeration value="aNpeshi"/>
  <xs:enumeration value="aNpi"/>
  <xs:enumeration value="aNpinaik"/>
  <xs:enumeration value="aNpitsa"/>
@@ -79,6 +82,8 @@
  <xs:enumeration value="aNtaro"/>
  <xs:enumeration value="aNtavai"/>
  <xs:enumeration value="aa"/>
+ <xs:enumeration value="aahatzi"/>
+ <xs:enumeration value="aahatzita"/>
  <xs:enumeration value="aani"/>
  <xs:enumeration value="aapa"/>
  <xs:enumeration value="aapi"/>
@@ -144,6 +149,8 @@
  <xs:enumeration value="apiNt"/>
  <xs:enumeration value="apite"/>
  <xs:enumeration value="apoto"/>
+ <xs:enumeration value="ar"/>
+ <xs:enumeration value="ara"/>
  <xs:enumeration value="arbitro"/>
  <xs:enumeration value="aree"/>
  <xs:enumeration value="ari"/>
@@ -161,10 +168,13 @@
  <xs:enumeration value="ashoshi"/>
  <xs:enumeration value="asuka"/>
  <xs:enumeration value="atai"/>
+ <xs:enumeration value="atoonka"/>
  <xs:enumeration value="atsi"/>
  <xs:enumeration value="atsik"/>
+ <xs:enumeration value="atso"/>
  <xs:enumeration value="aty"/>
  <xs:enumeration value="atz"/>
+ <xs:enumeration value="atzin"/>
  <xs:enumeration value="atziri"/>
  <xs:enumeration value="av"/>
  <xs:enumeration value="avintsi"/>
@@ -174,6 +184,7 @@
  <xs:enumeration value="avish"/>
  <xs:enumeration value="avotsi"/>
  <xs:enumeration value="ay"/>
+ <xs:enumeration value="ayi"/>
  <xs:enumeration value="chaari"/>
  <xs:enumeration value="chakopi"/>
  <xs:enumeration value="chapiNki"/>
@@ -184,6 +195,7 @@
  <xs:enumeration value="chevo"/>
  <xs:enumeration value="chochoki"/>
  <xs:enumeration value="chooki"/>
+ <xs:enumeration value="chorito"/>
  <xs:enumeration value="chovaNkeriki"/>
  <xs:enumeration value="compañia"/>
  <xs:enumeration value="contrato"/>
@@ -251,11 +263,11 @@
  <xs:enumeration value="intatzikironta"/>
  <xs:enumeration value="intsitya"/>
  <xs:enumeration value="intsoNpoi"/>
- <xs:enumeration value="intsompoi"/>
  <xs:enumeration value="intyatzini"/>
  <xs:enumeration value="ir"/>
  <xs:enumeration value="ira"/>
  <xs:enumeration value="iraa"/>
+ <xs:enumeration value="iraani"/>
  <xs:enumeration value="irashi"/>
  <xs:enumeration value="iri"/>
  <xs:enumeration value="iri@N.REALIZED.AS.RI@"/>
@@ -318,6 +330,7 @@
  <xs:enumeration value="kami"/>
  <xs:enumeration value="kamiNkari"/>
  <xs:enumeration value="kamitaNt"/>
+ <xs:enumeration value="kamorya"/>
  <xs:enumeration value="kanai"/>
  <xs:enumeration value="kaniri"/>
  <xs:enumeration value="kant"/>
@@ -336,6 +349,7 @@
  <xs:enumeration value="kara"/>
  <xs:enumeration value="kari"/>
  <xs:enumeration value="kasa"/>
+ <xs:enumeration value="kasha"/>
  <xs:enumeration value="kashiri"/>
  <xs:enumeration value="katari"/>
  <xs:enumeration value="katoNko"/>
@@ -368,7 +382,10 @@
  <xs:enumeration value="kimoshi"/>
  <xs:enumeration value="kimoshiri"/>
  <xs:enumeration value="kin"/>
+ <xs:enumeration value="kiniri"/>
  <xs:enumeration value="kinkitsarentsi"/>
+ <xs:enumeration value="kint"/>
+ <xs:enumeration value="kintsi"/>
  <xs:enumeration value="kintsori"/>
  <xs:enumeration value="kipa"/>
  <xs:enumeration value="kipatsi"/>
@@ -411,7 +428,9 @@
  <xs:enumeration value="koka"/>
  <xs:enumeration value="koki"/>
  <xs:enumeration value="kokov"/>
+ <xs:enumeration value="kompatsiri"/>
  <xs:enumeration value="konoya"/>
+ <xs:enumeration value="kontsaro"/>
  <xs:enumeration value="konyaa"/>
  <xs:enumeration value="kooya"/>
  <xs:enumeration value="korarintsi"/>
@@ -424,10 +443,12 @@
  <xs:enumeration value="kov"/>
  <xs:enumeration value="kovari"/>
  <xs:enumeration value="koveNka"/>
+ <xs:enumeration value="kovenka"/>
  <xs:enumeration value="kovintsa"/>
  <xs:enumeration value="koya"/>
  <xs:enumeration value="koye"/>
  <xs:enumeration value="kya"/>
+ <xs:enumeration value="m"/>
  <xs:enumeration value="ma"/>
  <xs:enumeration value="maakina"/>
  <xs:enumeration value="maaro"/>
@@ -452,10 +473,12 @@
  <xs:enumeration value="mantsiya"/>
  <xs:enumeration value="mapero"/>
  <xs:enumeration value="mapi"/>
+ <xs:enumeration value="mapitzi"/>
  <xs:enumeration value="mapocha"/>
  <xs:enumeration value="matematika"/>
  <xs:enumeration value="matsa"/>
  <xs:enumeration value="matzi"/>
+ <xs:enumeration value="matzik"/>
  <xs:enumeration value="mava"/>
  <xs:enumeration value="mavoshi"/>
  <xs:enumeration value="may"/>
@@ -467,6 +490,7 @@
  <xs:enumeration value="miNk"/>
  <xs:enumeration value="miNka"/>
  <xs:enumeration value="miNki"/>
+ <xs:enumeration value="michii"/>
  <xs:enumeration value="mink"/>
  <xs:enumeration value="miroNt"/>
  <xs:enumeration value="mish"/>
@@ -483,7 +507,6 @@
  <xs:enumeration value="n"/>
  <xs:enumeration value="na"/>
  <xs:enumeration value="naNpi"/>
- <xs:enumeration value="naNpitsi"/>
  <xs:enumeration value="naaka"/>
  <xs:enumeration value="naakaite"/>
  <xs:enumeration value="naakataki"/>
@@ -503,12 +526,16 @@
  <xs:enumeration value="nii"/>
  <xs:enumeration value="nimo"/>
  <xs:enumeration value="nimot"/>
+ <xs:enumeration value="ninka"/>
+ <xs:enumeration value="nint"/>
+ <xs:enumeration value="niri"/>
  <xs:enumeration value="niro"/>
  <xs:enumeration value="nive"/>
  <xs:enumeration value="nivi"/>
  <xs:enumeration value="niyanki"/>
  <xs:enumeration value="no"/>
  <xs:enumeration value="noshik"/>
+ <xs:enumeration value="nta"/>
  <xs:enumeration value="ntsi"/>
  <xs:enumeration value="ntzi"/>
  <xs:enumeration value="ny"/>
@@ -516,7 +543,6 @@
  <xs:enumeration value="nyaa"/>
  <xs:enumeration value="nyaama"/>
  <xs:enumeration value="nyaana"/>
- <xs:enumeration value="nyaantsi"/>
  <xs:enumeration value="nyaatsa"/>
  <xs:enumeration value="nyanananyan"/>
  <xs:enumeration value="nyananonyan"/>
@@ -532,10 +558,12 @@
  <xs:enumeration value="okaNta"/>
  <xs:enumeration value="okaaki"/>
  <xs:enumeration value="okaakini"/>
+ <xs:enumeration value="okanta"/>
  <xs:enumeration value="oki"/>
  <xs:enumeration value="okimita"/>
  <xs:enumeration value="okimitatya"/>
  <xs:enumeration value="ontzimatye"/>
+ <xs:enumeration value="ooh"/>
  <xs:enumeration value="ook"/>
  <xs:enumeration value="ooka"/>
  <xs:enumeration value="ooko"/>
@@ -558,6 +586,8 @@
  <xs:enumeration value="otapiki"/>
  <xs:enumeration value="oteNkanaki"/>
  <xs:enumeration value="otsitzi"/>
+ <xs:enumeration value="otyapi"/>
+ <xs:enumeration value="otyapinyaaki"/>
  <xs:enumeration value="otzishi"/>
  <xs:enumeration value="ov"/>
  <xs:enumeration value="ovakera"/>
@@ -569,12 +599,14 @@
  <xs:enumeration value="ovayeri"/>
  <xs:enumeration value="oy"/>
  <xs:enumeration value="oya"/>
+ <xs:enumeration value="oyaariri"/>
  <xs:enumeration value="oyari"/>
  <xs:enumeration value="p"/>
  <xs:enumeration value="paNki"/>
  <xs:enumeration value="paNko"/>
  <xs:enumeration value="paNkotsi"/>
  <xs:enumeration value="paaNpatzi"/>
+ <xs:enumeration value="paamari"/>
  <xs:enumeration value="paasoNki"/>
  <xs:enumeration value="pachaka"/>
  <xs:enumeration value="pai"/>
@@ -583,6 +615,8 @@
  <xs:enumeration value="paita"/>
  <xs:enumeration value="paitaraNki"/>
  <xs:enumeration value="paite"/>
+ <xs:enumeration value="pampitsa"/>
+ <xs:enumeration value="panko"/>
  <xs:enumeration value="pareni"/>
  <xs:enumeration value="parentzi"/>
  <xs:enumeration value="pari"/>
@@ -603,13 +637,16 @@
  <xs:enumeration value="patsitaroki"/>
  <xs:enumeration value="pava"/>
  <xs:enumeration value="pavani"/>
+ <xs:enumeration value="pavya"/>
  <xs:enumeration value="paye"/>
  <xs:enumeration value="pero"/>
  <xs:enumeration value="pes"/>
+ <xs:enumeration value="peyari"/>
  <xs:enumeration value="pi"/>
  <xs:enumeration value="piNkatsa"/>
  <xs:enumeration value="piNki"/>
  <xs:enumeration value="pimaNt"/>
+ <xs:enumeration value="pimant"/>
  <xs:enumeration value="pina"/>
  <xs:enumeration value="pinat"/>
  <xs:enumeration value="pintsa"/>
@@ -639,16 +676,20 @@
  <xs:enumeration value="pori"/>
  <xs:enumeration value="poro"/>
  <xs:enumeration value="poroki"/>
+ <xs:enumeration value="porootora"/>
  <xs:enumeration value="pos"/>
  <xs:enumeration value="posa"/>
  <xs:enumeration value="posh"/>
  <xs:enumeration value="potso"/>
  <xs:enumeration value="potsot"/>
  <xs:enumeration value="potsotzi"/>
+ <xs:enumeration value="pya"/>
  <xs:enumeration value="pyaameni"/>
+ <xs:enumeration value="pyameni"/>
  <xs:enumeration value="pyarentsi"/>
  <xs:enumeration value="ra"/>
  <xs:enumeration value="raNki"/>
+ <xs:enumeration value="ranki"/>
  <xs:enumeration value="reNto"/>
  <xs:enumeration value="rentsi"/>
  <xs:enumeration value="ri"/>
@@ -671,9 +712,9 @@
  <xs:enumeration value="saik"/>
  <xs:enumeration value="sam"/>
  <xs:enumeration value="samani"/>
- <xs:enumeration value="sampi"/>
  <xs:enumeration value="santsa"/>
  <xs:enumeration value="sari"/>
+ <xs:enumeration value="saryomonka"/>
  <xs:enumeration value="sat"/>
  <xs:enumeration value="satzi"/>
  <xs:enumeration value="savaro"/>
@@ -725,6 +766,7 @@
  <xs:enumeration value="shoiniNk"/>
  <xs:enumeration value="siete"/>
  <xs:enumeration value="soNtoki"/>
+ <xs:enumeration value="sok"/>
  <xs:enumeration value="soles"/>
  <xs:enumeration value="soraro"/>
  <xs:enumeration value="t"/>
@@ -737,6 +779,7 @@
  <xs:enumeration value="taan"/>
  <xs:enumeration value="taima"/>
  <xs:enumeration value="takaant"/>
+ <xs:enumeration value="taki"/>
  <xs:enumeration value="takik"/>
  <xs:enumeration value="tapi"/>
  <xs:enumeration value="tary"/>
@@ -787,6 +830,7 @@
  <xs:enumeration value="tsikiy"/>
  <xs:enumeration value="tsima"/>
  <xs:enumeration value="tsimiri"/>
+ <xs:enumeration value="tsinani"/>
  <xs:enumeration value="tsipa"/>
  <xs:enumeration value="tsipana"/>
  <xs:enumeration value="tsipat"/>
@@ -804,6 +848,7 @@
  <xs:enumeration value="tsonkitiroki"/>
  <xs:enumeration value="tsop"/>
  <xs:enumeration value="tsori"/>
+ <xs:enumeration value="tsova"/>
  <xs:enumeration value="tya"/>
  <xs:enumeration value="tyaNk"/>
  <xs:enumeration value="tyaapa"/>
@@ -815,6 +860,7 @@
  <xs:enumeration value="tzim"/>
  <xs:enumeration value="tzimaNt"/>
  <xs:enumeration value="tzimatsi"/>
+ <xs:enumeration value="tzimpin"/>
  <xs:enumeration value="tzimtsi"/>
  <xs:enumeration value="tzin"/>
  <xs:enumeration value="tzina"/>
@@ -830,10 +876,12 @@
  <xs:enumeration value="vai"/>
  <xs:enumeration value="vairo"/>
  <xs:enumeration value="vamet"/>
+ <xs:enumeration value="vanarontsi"/>
  <xs:enumeration value="vani"/>
  <xs:enumeration value="vapee"/>
  <xs:enumeration value="vari"/>
  <xs:enumeration value="varipa"/>
+ <xs:enumeration value="vary"/>
  <xs:enumeration value="vashitsi"/>
  <xs:enumeration value="vatsa"/>
  <xs:enumeration value="vatsantzi"/>
@@ -848,6 +896,7 @@
  <xs:enumeration value="vi"/>
  <xs:enumeration value="viNt"/>
  <xs:enumeration value="vir"/>
+ <xs:enumeration value="vira"/>
  <xs:enumeration value="virakocha"/>
  <xs:enumeration value="vit"/>
  <xs:enumeration value="vitsa"/>
@@ -858,6 +907,7 @@
  <xs:enumeration value="y"/>
  <xs:enumeration value="ya"/>
  <xs:enumeration value="yaa"/>
+ <xs:enumeration value="yaari"/>
  <xs:enumeration value="yari"/>
  <xs:enumeration value="ye"/>
  <xs:enumeration value="yeNpita"/>
@@ -873,6 +923,6 @@
  <xs:enumeration value="yovancheri"/>
  <xs:enumeration value="Ø"/>
  <xs:enumeration value="ñaama"/>
- </xs:restriction>
+</xs:restriction>
 </xs:simpleType>
 </xs:schema>

@@ -134,6 +134,20 @@
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="A0008">
+                <xs:annotation>
+                    <xs:documentation>
+                        <source source_id="A0008">
+                            <name>Judith Payne</name>
+                            <title>Lecciones para el apredizaje del idioma ashéninca</title>
+                            <year>1989</year>
+                            <url></url>
+                            <email></email>
+                            <note></note>
+                        </source>
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="isstandard">
@@ -673,8 +687,13 @@
             <xs:enumeration value="for.a.while"/>
             <!-- realis  -->
 
-            <!--  -->
-
+            <!-- New abbreviations 
+            Where:
+            R.PST       remote past
+            STAT        stative
+            PRF         perfective
+            IPRF        imperfective
+            -->
 
             <!-- Verb prefix slot 1
             Where:
@@ -703,12 +722,13 @@
             <xs:enumeration value="1PL.A"/> <!-- found in source -->
 
             <!-- penultimate or last verbal slot -->
-            <xs:enumeration value="3O"/> <!-- found in source -->
             <xs:enumeration value="1SG.O"/> <!-- found in source -->
+            <xs:enumeration value="2O"/> <!-- found in source -->
             <xs:enumeration value="3m.O"/> <!-- found in source -->
             <xs:enumeration value="3n.m.O"/> <!-- found in source -->
+            <xs:enumeration value="3O"/> <!-- found in source -->
             <xs:enumeration value="1PL.O"/> <!-- found in source -->
-            <xs:enumeration value="2O"/> <!-- found in source -->
+
 
             <!-- Observed -->
             <xs:enumeration value="3SG.m.IRR"/> <!-- found in source -->

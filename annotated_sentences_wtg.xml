@@ -4353,7 +4353,7 @@ a=@K.LENITION.Ø@itsoki
 <elements>
 <element sign="none"><e_afl>n</e_afl><e_asl>1SG.poss</e_asl></element>
 <element sign="equal;isroot:yes"><e_afl>incha</e_afl><e_asl>plant</e_asl></element>
-<element sign="hyphen"><e_afl>shi</e_afl><e_asl>noun</e_asl></element> <!-- leaf -->
+<element sign="hyphen"><e_afl>shi</e_afl><e_asl>CLS.T</e_asl></element> <!-- leaf -->
  <element sign="hyphen"><e_afl>patsa</e_afl><e_asl>noun</e_asl></element> <!-- part -->
 <element sign="hyphen"><e_afl>ini</e_afl><e_asl>DIM</e_asl></element>
 </elements>
@@ -4391,7 +4391,7 @@ a=@K.LENITION.Ø@itsoki
 <word type="noun"><n>inchashi</n><afl>incha-shi</afl><asl>plant-leaf</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>incha</e_afl><e_asl>plant</e_asl></element>
-<element sign="hyphen"><e_afl>shi</e_afl><e_asl>noun</e_asl></element> <!-- leaf -->
+<element sign="hyphen"><e_afl>shi</e_afl><e_asl>CLS.T</e_asl></element> <!-- leaf -->
 </elements>
 </word>
 <word type="verb"><n>nonkaatantyariri</n><afl>no=N-kaa-t-aNt-ia=ri=ri</afl><asl>1SG.A=IRR-bathe-EP-APPL.REAS-IRR=3m.O=REL</asl>
@@ -5127,7 +5127,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC 1SG.A=CAUS-pass-APPL.REAS-REAL=3n.m.O=REL 1SG.S=live-APPL.REAS-REAL-NMZ week-LOC-PL moon-LOC-PL day-LOC-PL</annotation_second_level>
 <translation lang="en">With this I live my life over weeks, months, and days.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -5356,7 +5356,7 @@ a=@K.LENITION.Ø@itsoki
 <word type="noun"><n>inchashi</n><afl>incha-shi</afl><asl>plant-leaf</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>incha</e_afl><e_asl>plant</e_asl></element>
-<element sign="hyphen"><e_afl>shi</e_afl><e_asl>noun</e_asl></element> <!-- leaf -->
+<element sign="hyphen"><e_afl>shi</e_afl><e_asl>CLS.T</e_asl></element> <!-- leaf -->
 </elements>
 </word>
 </words>
@@ -5368,7 +5368,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC 3n.m.S=CAUS.AGT-pass-APPL.REAS-EP-PRF-REAL=3m.O=REL</annotation_second_level>
 <translation lang="en">This is what [the herbs] made him [the sick person] recover from the illness.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -5737,7 +5737,7 @@ a=@K.LENITION.Ø@itsoki
 <elements>
 <element sign="none"><e_afl>no</e_afl><e_asl>1SG.poss</e_asl></element>
 <element sign="equal;isroot:yes"><e_afl>niro</e_afl><e_asl>mother</e_asl></element>
-<element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>deceased</e_asl></element>
+  <element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>CLS.T</e_asl></element> <!-- deceased -->
 </elements>
 </word>
 </words>
@@ -5749,7 +5749,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC 1SG.A=inform-APPL.REAS-REAL=2O=REL</annotation_second_level>
 <translation lang="en">That’s why I advised you.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -6007,7 +6007,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC cast.spell-EP-PRF-REAL=3m.O=REL</annotation_second_level>
 <translation lang="en">She is the one who cast spell on him.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -7237,7 +7237,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>Nto</e_afl><e_asl>ADJ.n.m.</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -7254,7 +7254,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal;isroot:yes"><e_afl>tomi</e_afl><e_asl>son</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -7349,13 +7349,13 @@ a=@K.LENITION.Ø@itsoki
 <word type="noun"><n>inani</n><afl>ina-ni</afl><asl>mother-deceased</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>ina</e_afl><e_asl>mother</e_asl></element>
-<element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>deceased</e_asl></element>
+  <element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>CLS.T</e_asl></element> <!-- deceased -->
 </elements>
 </word>
 <word type="noun"><n>anini</n><afl>ani-ni</afl><asl>grandpa-deceased</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>ani</e_afl><e_asl>grandpa</e_asl></element>
-<element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>deceased</e_asl></element>
+  <element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>CLS.T</e_asl></element> <!-- deceased -->
 </elements>
 </word>
 <word type="verb"><n>kamahatsirini</n><afl>kam-ah-atsi-ri-ni</afl><asl>die-REGR-STAT-ADJ-deceased</asl>
@@ -7364,7 +7364,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>ah</e_afl><e_asl>REGR</e_asl></element>
 <element sign="hyphen"><e_afl>atsi</e_afl><e_asl>STAT</e_asl></element>
 <element sign="hyphen"><e_afl>ri</e_afl><e_asl>ADJ.m.</e_asl></element>
-<element sign="hyphen"><e_afl>ni</e_afl><e_asl>deceased</e_asl></element>
+  <element sign="hyphen"><e_afl>ni</e_afl><e_asl>CLS.T</e_asl></element> <!-- deceased -->
 </elements>
 </word>
 </words>
@@ -7397,7 +7397,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC 1SG.A=steam.bathe-EP-INST-REAL=3m.O be.sick-ADJ.m.-small.part-DIM</annotation_second_level>
 <translation lang="en">With this I bathe the sickly [little things].</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8702,7 +8702,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>ini</e_afl><e_asl>DIM</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8731,7 +8731,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC take-PRF-REAL=3n.m.O</annotation_second_level>
 <translation lang="en">I took it.</translation>
 <words>
-<word type="other"><n>Naakataki</n><afl>naakataki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Naakataki</n><afl>naakataki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>naakataki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8753,7 +8753,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC be.at-STAT one </annotation_second_level>
 <translation lang="en">HE IS THE ONE who is living here.</translation>
 <words>
-<word type="other"><n>Iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Iritaki</n><afl>iritaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8778,7 +8778,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC 1SG.S=IRR-get.dark-EP-DIR-PRF-IRR get.worse-EP-DIR-PRF-REAL=1SG.O</annotation_second_level>
 <translation lang="en">IT is about to get dark, I am getting worse.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8813,7 +8813,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC 3m.A=take-DIR-PRF-REAL=3n.m.O father 3n.m.S=be.at-EP-AUG-EP-APPL.REAS-DIR-PRF-REAL=REL name.of.village-LOC</annotation_second_level>
 <translation lang="en">HER my dad took [as a wife], that’s why she lived all her life in Marankiari.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8867,7 +8867,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="none;isroot:yes"><e_afl>he</e_afl><e_asl>yes</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8920,7 +8920,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>i</e_afl><e_asl>REAL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8944,7 +8944,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC also 1PL.S=be.angry-RCP-PRF-APPL.REAS-HAB-REAL=REL</annotation_second_level>
 <translation lang="en">THIS IS [THE REASON] WHYwe argue between ourselves.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8975,7 +8975,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC cotton-leaf 1SG.S=drink-PRF-REAL FOC 1SG.S=drink-REAL=REL 3m.A=give-IMP.P-EP-PRF-REAL=1SG.O=REL</annotation_second_level>
 <translation lang="en">THIS,cotton leaves (tea) I drank, THIS IS WHATI drank, WHATthey gave me.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -8983,7 +8983,7 @@ a=@K.LENITION.Ø@itsoki
 <word type="noun"><n>ampeshi</n><afl>aNpe-shi</afl><asl>cotton-leaf</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>aNpe</e_afl><e_asl>cotton</e_asl></element>
-  <element sign="hyphen"><e_afl>shi</e_afl><e_asl>noun</e_asl></element> <!-- leaf -->  
+  <element sign="hyphen"><e_afl>shi</e_afl><e_asl>CLS.T</e_asl></element> <!-- leaf -->  
 </elements>
 </word>
 <word type="verb"><n>niraki</n><afl>n=ir-ak-i</afl><asl>1SG.S=drink-PRF-REAL</asl>
@@ -8994,7 +8994,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>i</e_afl><e_asl>REAL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -9061,7 +9061,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="none;isroot:yes"><e_afl>iroka</e_afl><e_asl>DEM</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -9127,7 +9127,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ri</e_afl><e_asl>REL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -10209,7 +10209,7 @@ a=@K.LENITION.Ø@itsoki
 <elements>
 <element sign="none"><e_afl>o</e_afl><e_asl>3n.m.poss</e_asl></element>
 <element sign="equal;isroot:yes"><e_afl>imi</e_afl><e_asl>husband</e_asl></element>
-<element sign="hyphen"><e_afl>tsori</e_afl><e_asl>DIST.REL</e_asl></element>
+  <element sign="hyphen"><e_afl>tsori</e_afl><e_asl>CLS.T</e_asl></element> <!-- DIST.REL -->
 </elements>
 </word>
   <word type="verb"><n>Nosampitakotatziri</n><afl>no=saNpi-t-ako-t-atz-i=ri</afl><asl>1SG.A=ask-EP-APPL-EP-PROG-REAL=3m.O</asl>
@@ -10228,7 +10228,7 @@ a=@K.LENITION.Ø@itsoki
 <elements>
 <element sign="none"><e_afl>no</e_afl><e_asl>1SG.poss</e_asl></element>
 <element sign="equal;isroot:yes"><e_afl>shiNto</e_afl><e_asl>daughter</e_asl></element>
-<element sign="hyphen"><e_afl>tsori</e_afl><e_asl>DIST.REL</e_asl></element>
+  <element sign="hyphen"><e_afl>tsori</e_afl><e_asl>CLS.T</e_asl></element> <!-- DIST.REL -->
 </elements>
 </word>
 </words>
@@ -10652,7 +10652,7 @@ a=@K.LENITION.Ø@itsoki
 <elements>
 <element sign="none"><e_afl>n</e_afl><e_asl>1SG.poss</e_asl></element>
 <element sign="equal;isroot:yes"><e_afl>iri</e_afl><e_asl>father</e_asl></element>
-<element sign="hyphen"><e_afl>ni</e_afl><e_asl>deceased</e_asl></element>
+  <element sign="hyphen"><e_afl>ni</e_afl><e_asl>CLS.T</e_asl></element> <!-- deceased -->
 <element sign="equal"><e_afl>ve</e_afl><e_asl>EXCL</e_asl></element>
 </elements>
 </word>
@@ -10782,7 +10782,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>Nta</e_afl><e_asl>DEM</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -10799,7 +10799,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal;isroot:yes"><e_afl>ina</e_afl><e_asl>wife</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -10968,7 +10968,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ri</e_afl><e_asl>REL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -11214,7 +11214,7 @@ a=@K.LENITION.Ø@itsoki
 <word type="noun"><n>kishiisatzi</n><afl>kishii-satzi</afl><asl>pajonalino-provenance</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>kishii</e_afl><e_asl>pajonalino</e_asl></element>
-  <element sign="hyphen"><e_afl>satzi</e_afl><e_asl>noun</e_asl></element> <!-- provenance -->
+  <element sign="hyphen"><e_afl>satzi</e_afl><e_asl>CLS.T</e_asl></element> <!-- provenance -->
 </elements>
 </word>
 <word type="verb"><n>ikantapakiri</n><afl>i=kaNt-ap-ak-i=ri</afl><asl>3m.A=say-DIR-PRF-REAL=3m.O</asl>
@@ -12067,7 +12067,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ha</e_afl><e_asl>EMPH</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -12408,7 +12408,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ri</e_afl><e_asl>REL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -12715,7 +12715,7 @@ a=@K.LENITION.Ø@itsoki
 <word type="noun"><n>aanini</n><afl>aani-ni</afl><asl>grandpa-deceased</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>aani</e_afl><e_asl>grandpa</e_asl></element>
-<element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>deceased</e_asl></element>
+  <element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>CLS.T</e_asl></element> <!-- deceased -->
 </elements>
 </word>
 </words>
@@ -13425,7 +13425,7 @@ a=@K.LENITION.Ø@itsoki
 <word type="noun"><n>chookini</n><afl>chooki-ni</afl><asl>sister-deceased</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>chooki</e_afl><e_asl>sister</e_asl></element>
-<element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>deceased</e_asl></element>
+  <element sign="hyphen" type="adjective"><e_afl>ni</e_afl><e_asl>CLS.T</e_asl></element> <!-- deceased -->
 </elements>
 </word>
 <word type="other"><n>ovakera</n><afl>ovakera</afl><asl>ago</asl>
@@ -13449,7 +13449,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>ni</e_afl><e_asl>poss</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -13484,7 +13484,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ri</e_afl><e_asl>3m.O</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -14035,7 +14035,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>te</e_afl><e_asl>poss</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -16478,7 +16478,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC NEG.P 3m.S=have-APPL.REAS-REAL 3m.poss=poney-poss 3m.A=pay-REGR-IRR=3m.O 3m.poss=person-poss-PL</annotation_second_level>
 <translation lang="en">That’s why he doesn’t have money to pay his staff.(That’s why that he has money to pay his staff is not the case.)</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -18075,7 +18075,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="none;isroot:yes"><e_afl>makako</e_afl><e_asl>macaque</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -18412,7 +18412,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC 3m.A=advise-EP-PL-EP-REAL=3m.O 3m.poss=child-poss-PL until=EMPH now</annotation_second_level>
 <translation lang="en">This is what they have told their children untiltoday.</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -19063,7 +19063,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="equal"><e_afl>ri</e_afl><e_asl>3m.O</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>iritakirika</n><afl>iritaki=rika</afl><asl>FOC=COND</asl>
+<word type="pronoun"><n>iritakirika</n><afl>iritaki=rika</afl><asl>FOC=COND</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
 <element sign="equal"><e_afl>rika</e_afl><e_asl>COND</e_asl></element>
@@ -21263,7 +21263,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>paye</e_afl><e_asl>PL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -21329,7 +21329,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>i</e_afl><e_asl>REAL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -21405,7 +21405,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="none;isroot:yes"><e_afl>naaka</e_afl><e_asl>I</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -21466,7 +21466,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="hyphen"><e_afl>a</e_afl><e_asl>REAL</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -23531,7 +23531,7 @@ a=@K.LENITION.Ø@itsoki
 <annotation_second_level>FOC also=OPT when 1SG.A=teach-REGR-IRR=3m.O 1SG.S=instruct-EP-IRR one=DEM now=EMPH 1SG.A=teach-REGR-IRR=3m.O 3m.poss=word-poss=DEM 3m.S=say-EP-REAL outsider FOC 1SG.poss=one-NMZ-NMZ</annotation_second_level>
 <translation lang="en">‘Also when I teach them, I will speak their language, I will teach in his language, they say, the language of ‘virakocha’ (of outsiders), in only one language.’</translation>
 <words>
-<word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -23606,7 +23606,7 @@ a=@K.LENITION.Ø@itsoki
 <element sign="none;isroot:yes"><e_afl>virakocha</e_afl><e_asl>outsider</e_asl></element>
 </elements>
 </word>
-<word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+<word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
 <elements>
 <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
 </elements>
@@ -24344,7 +24344,7 @@ i=pina-ai-t-ak-a=na n=am-ah-i kapichiini kiriiki no=p-ap-ah-i=ro no=ina irotaki 
           <element sign="equal;isroot:yes"><e_afl>ina</e_afl><e_asl>wife</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -24734,7 +24734,7 @@ FOC also=OPT I 3m.A=pay-IMP.P-EP-REAL=1SG.O=3m.O
     <annotation_second_level>FOC also=OPT I 3m.A=pay-IMP.P-EP-REAL=1SG.O=3m.O</annotation_second_level>
     <translation lang="en">'For this they pay me.'</translation>
     <words>
-      <word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -25102,7 +25102,7 @@ NEG.IRR=COND 3n.m.A=like-EP-REAL=3n.m.O NEG.IRR 3n.m.S=sell-EP-DUR-EP-REAL expec
           <element sign="none;isroot:yes"><e_afl>naaka</e_afl><e_asl>I</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -25212,7 +25212,7 @@ p=aNtavai-t-ah-a-it-e=tya=mi avirori naaka apaniroini aNtavai-t-atsi=ni naaka am
           <element sign="none;isroot:yes"><e_afl>iroka</e_afl><e_asl>DEM</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>naakataki</n><afl>naakataki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>naakataki</n><afl>naakataki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>naakataki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -25575,7 +25575,7 @@ yesterday 1SG.S=go-EP-once-EP-REAL downriver=DEM 3m.A=pay-IMP.P-EP-PRF-REAL=1SG.
           <element sign="none;isroot:yes"><e_afl>kapichiini</e_afl><e_asl>some</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -25613,7 +25613,7 @@ FOC 1SG.A=say-EP-PL-EP-REAL=3m.O 1SG.S=be.at-EP-PL-EP-REAL=ADV one-PL look.for-E
     <annotation_second_level>FOC 1SG.A=say-EP-PL-EP-REAL=3m.O 1SG.S=be.at-EP-PL-EP-REAL=ADV one-PL look.for-EP-PL-EP-REAL work-NMZ</annotation_second_level>
     <translation lang="en">‘This is what I say to all of them living [in my house], ‘Each [person] is looking for work.’</translation>
     <words>
-      <word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -25744,7 +25744,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1S
     <annotation_second_level>FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1SG.S=do-EP-REAL=REL day-PL=DEM</annotation_second_level>
     <translation lang="en">'This is all that I was telling you, all that I do these days.'</translation>
     <words>
-      <word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -26308,7 +26308,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=do-EP-REAL=REL
     <annotation_second_level>FOC 3n.m.S=COP.C-EP-REAL 1SG.A=do-EP-REAL=REL</annotation_second_level>
     <translation lang="en">‘This is all that I do.’</translation>
     <words>
-      <word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -27802,7 +27802,7 @@ FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=CAP.C-EP-REAL 3n.m.S=sell-REAL=REL 
     <annotation_second_level>FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=CAP.C-EP-REAL 3n.m.S=sell-REAL=REL FOC=DUB see-IRR=3n.m.O=OPT tomorrow</annotation_second_level>
     <translation lang="en">‘That’s why it will probably be enough what you’ve sold, we’ll see tomorrow.’</translation>
     <words>
-      <word type="other"><n>Irotakitya</n><afl>irotaki=tya</afl><asl>FOC=EMPH</asl>
+      <word type="pronoun"><n>Irotakitya</n><afl>irotaki=tya</afl><asl>FOC=EMPH</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
           <element sign="equal"><e_afl>tya</e_afl><e_asl>EMPH</e_asl></element>
@@ -27833,7 +27833,7 @@ FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=CAP.C-EP-REAL 3n.m.S=sell-REAL=REL 
           <element sign="equal"><e_afl>ri</e_afl><e_asl>REL</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>irotakima;</n><afl>irotaki=ma</afl><asl>FOC=DUB</asl>
+      <word type="pronoun"><n>irotakima</n><afl>irotaki=ma</afl><asl>FOC=DUB</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
           <element sign="equal"><e_afl>ma</e_afl><e_asl>DUB</e_asl></element>
@@ -28402,7 +28402,7 @@ FOC NEG.COP 3m.S=have-REAL 3m.poss=poney-poss 3m.A=pay-EP-REGR-IRR=3m.O 3m.poss=
     <annotation_second_level>FOC NEG.COP 3m.S=have-REAL 3m.poss=poney-poss 3m.A=pay-EP-REGR-IRR=3m.O 3m.poss=person-poss-PL</annotation_second_level>
     <translation lang="en">‘That’s why that he has money to pay his staff is not the case.’</translation>
     <words>
-      <word type="other"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>Irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -30122,7 +30122,7 @@ y-atso-t-ak-i-ro i-shiri-ni y-amin-ak-i i-nyaa-tz-i-ri ah iritaki yoka iritaki k
           <element sign="none;isroot:yes"><e_afl>ah</e_afl><e_asl>EXCL</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>Iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>Iritaki</n><afl>iritaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -30132,7 +30132,7 @@ y-atso-t-ak-i-ro i-shiri-ni y-amin-ak-i i-nyaa-tz-i-ri ah iritaki yoka iritaki k
           <element sign="none;isroot:yes"><e_afl>yoka</e_afl><e_asl>DEM.NOM</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -30348,7 +30348,7 @@ NOM.DEM.n.m. other=DEM FOC 3m.A=say-IMP.P-EP-REAL-3m.O fishing.trap
           <element sign="equal"><e_afl>ka</e_afl><e_asl>DEM</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>irotaki</n><afl>irotaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>irotaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -30618,7 +30618,7 @@ afterwards 3m.S-look.for-PRF-IRR one 3n.m.poss=spiritual.father-EP-IRR-NMZ spiri
           <element sign="equal"><e_afl>ha</e_afl><e_asl>EMPH</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -30941,7 +30941,7 @@ i=kimi-t-a-ri kiniri=raNki hoo ooh ooh iritaki
       </word>
       <word type="ideophone"><n>hoo</n><afl>hoo</afl><asl>IDEO</asl>
         <elements>
-          <element sign="none"><e_afl>hoo</e_afl><e_asl>IDEO</e_asl></element>
+          <element sign="none;isroot:yes"><e_afl>hoo</e_afl><e_asl>IDEO</e_asl></element>
         </elements>
       </word>
       <word type="ideophone"><n>ooh</n><afl>ooh</afl><asl>IDEO</asl>
@@ -30954,7 +30954,7 @@ i=kimi-t-a-ri kiniri=raNki hoo ooh ooh iritaki
           <element sign="none;isroot:yes"><e_afl>ooh</e_afl><e_asl>IDEO</e_asl></element>
         </elements>
       </word>
-      <word type="other"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
+      <word type="pronoun"><n>iritaki</n><afl>iritaki</afl><asl>FOC</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>iritaki</e_afl><e_asl>FOC</e_asl></element>
         </elements>
@@ -31190,7 +31190,7 @@ DEM.ADV=EMPH 3n.m.S=be-EP-neck-EP-DIR-PRF-REAL=ADV.DEM now NAME
           <element sign="none"><e_afl>o</e_afl><e_asl>3n.m.S</e_asl></element>
           <element sign="equal;isroot:yes"><e_afl>kant</e_afl><e_asl>be</e_asl></element>
           <element sign="hyphen"><e_afl>a</e_afl><e_asl>EP</e_asl></element>
-          <element sign="hyphen"><e_afl>kintsi</e_afl><e_asl>neck</e_asl></element>
+          <element sign="hyphen"><e_afl>kintsi</e_afl><e_asl>noun</e_asl></element> <!-- neck -->
           <element sign="hyphen"><e_afl>t</e_afl><e_asl>EP</e_asl></element>
           <element sign="hyphen"><e_afl>ap</e_afl><e_asl>DIR</e_asl></element>
           <element sign="hyphen"><e_afl>ak</e_afl><e_asl>PRF</e_asl></element>
@@ -31433,13 +31433,13 @@ pi-saik-e=ra
 MIH.1.37.
 Tsikaratya ipaitaka?
 tsika=ra=tya i-pait-a=ka
-WH=DEM=EXSP 3m.S-be.called-real=Q
+WH=DEM=EXSP 3m.S-be.called-REAL=Q
 ‘What could it be?’
 ]]>
     </annotation_source>
     <normal istandard="yes">Tsikaratya ipaitaka?</normal>
     <annotation_first_level>tsika=ra=tya i-pait-a=ka</annotation_first_level>
-    <annotation_second_level>WH=DEM=EXSP 3m.S-be.called-real=Q</annotation_second_level>
+    <annotation_second_level>WH=DEM=EXSP 3m.S-be.called-REAL=Q</annotation_second_level>
     <translation lang="en">‘What could it be?’</translation>
     <words>
       <word type="other"><n>Tsikaratya</n><afl>tsika=ra=tya</afl><asl>WH=DEM=EXSP</asl>
@@ -31449,11 +31449,11 @@ WH=DEM=EXSP 3m.S-be.called-real=Q
           <element sign="equal"><e_afl>tya</e_afl><e_asl>EXSP</e_asl></element>
         </elements>
       </word>
-      <word type="verb"><n>ipaitaka</n><afl>i-pait-a=ka</afl><asl>3m.S-be.called-real=Q</asl>
+      <word type="verb"><n>ipaitaka</n><afl>i-pait-a=ka</afl><asl>3m.S-be.called-REAL=Q</asl>
         <elements>
           <element sign="none"><e_afl>i</e_afl><e_asl>3m.S</e_asl></element>
           <element sign="hyphen;isroot:yes"><e_afl>pait</e_afl><e_asl>be.called</e_asl></element>
-          <element sign="hyphen"><e_afl>a</e_afl><e_asl>real</e_asl></element>
+          <element sign="hyphen"><e_afl>a</e_afl><e_asl>REAL</e_asl></element>
           <element sign="equal"><e_afl>ka</e_afl><e_asl>Q</e_asl></element>
         </elements>
       </word>
@@ -31472,7 +31472,7 @@ who=DEM=EXSP own-EP-REAL-3M.O-REL child=DEM
     </annotation_source>
     <normal istandard="yes">Ninkaratya ashitariri eentsira?</normal>
     <annotation_first_level>ninka=ra=tya ashi-t-a-ri-ri eentsi=ra</annotation_first_level>
-    <annotation_second_level>who=DEM=EXSP own-EP-REAL-3M.O-REL child=DEM</annotation_second_level>
+    <annotation_second_level>who=DEM=EXSP own-EP-REAL-3m.O-REL child=DEM</annotation_second_level>
     <translation lang="en">‘Who could be that child’s father?’</translation>
     <words>
       <word type="other"><n>Ninkaratya</n><afl>ninka=ra=tya</afl><asl>who=DEM=EXSP</asl>
@@ -31482,12 +31482,12 @@ who=DEM=EXSP own-EP-REAL-3M.O-REL child=DEM
           <element sign="equal"><e_afl>tya</e_afl><e_asl>EXSP</e_asl></element>
         </elements>
       </word>
-      <word type="verb"><n>ashitariri</n><afl>ashi-t-a-ri-ri</afl><asl>own-EP-REAL-3M.O-REL</asl>
+      <word type="verb"><n>ashitariri</n><afl>ashi-t-a-ri-ri</afl><asl>own-EP-REAL-3m.O-REL</asl>
         <elements>
           <element sign="none;isroot:yes"><e_afl>ashi</e_afl><e_asl>own</e_asl></element>
           <element sign="hyphen"><e_afl>t</e_afl><e_asl>EP</e_asl></element>
           <element sign="hyphen"><e_afl>a</e_afl><e_asl>REAL</e_asl></element>
-          <element sign="hyphen"><e_afl>ri</e_afl><e_asl>3M.O</e_asl></element>
+          <element sign="hyphen"><e_afl>ri</e_afl><e_asl>3m.O</e_asl></element>
           <element sign="hyphen"><e_afl>ri</e_afl><e_asl>REL</e_asl></element>
         </elements>
       </word>
@@ -31551,7 +31551,7 @@ NEG.IRR=DEM 1SG.A-take.IRR-3M.O
     </annotation_source>
     <normal istandard="yes">Eerora nayiri.</normal>
     <annotation_first_level>airo=ra n-ayi-ri</annotation_first_level>
-    <annotation_second_level>NEG.IRR=DEM 1SG.A-take.IRR-3M.O</annotation_second_level>
+    <annotation_second_level>NEG.IRR=DEM 1SG.A-take.IRR-3m.O</annotation_second_level>
     <translation lang="en">‘I’ll absolutely never marry him.’</translation>
     <words>
       <word type="other"><n>Eerora</n><afl>airo=ra</afl><asl>NEG.IRR=DEM</asl>
@@ -31560,11 +31560,11 @@ NEG.IRR=DEM 1SG.A-take.IRR-3M.O
           <element sign="equal"><e_afl>ra</e_afl><e_asl>DEM</e_asl></element>
         </elements>
       </word>
-      <word type="verb"><n>nayiri</n><afl>n-ayi-ri</afl><asl>1SG.A-take.IRR-3M.O</asl>
+      <word type="verb"><n>nayiri</n><afl>n-ayi-ri</afl><asl>1SG.A-take.IRR-3m.O</asl>
         <elements>
           <element sign="none"><e_afl>n</e_afl><e_asl>1SG.A</e_asl></element>
           <element sign="hyphen;isroot:yes"><e_afl>ayi</e_afl><e_asl>take.IRR</e_asl></element>
-          <element sign="hyphen"><e_afl>ri</e_afl><e_asl>3M.O</e_asl></element>
+          <element sign="hyphen"><e_afl>ri</e_afl><e_asl>3m.O</e_asl></element>
         </elements>
       </word>
     </words>
@@ -31726,7 +31726,7 @@ this.n.m. woman=DEM
     </words>
   </sentence>
 
-  <sentence source_id="A000" id="RIC.1.1.">
+  <sentence source_id="A0009" id="RIC.1.1.">
     <annotation_source>
       <![CDATA[
 RIC.1.1.

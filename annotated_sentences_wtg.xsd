@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+         ******************************************************
+         *                                                    *
+         *  Ashaninka tagset for the AshaninkaMorph Project   *
+         *                    based on                        *
+         *           Elena Mihas's research work              *
+         *         by Richard Alexander Castro Mamani         *
+         *              at Hinantin Research Group.           *
+         *                                                    *
+         ******************************************************
+-->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
     vc:minVersion="1.1">
@@ -416,6 +427,11 @@
                     <xs:documentation>focused object</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="N.C.FOC">
+                <xs:annotation>
+                    <xs:documentation>non-contradictory focus</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="FRUS">
                 <xs:annotation>
                     <xs:documentation>frustrative</xs:documentation>
@@ -478,11 +494,6 @@
             <xs:enumeration value="M.CAUS">
                 <xs:annotation>
                     <xs:documentation>malefactive causative</xs:documentation>
-                </xs:annotation>
-            </xs:enumeration>
-            <xs:enumeration value="N.C.FOC">
-                <xs:annotation>
-                    <xs:documentation>non-contradictory focus</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="NEG">
@@ -646,8 +657,6 @@
             <!-- realis  -->
             <xs:enumeration value="CL:quantity"/>
             <!-- realis  -->
-            <xs:enumeration value="DIST.REL"/>
-            <!-- realis  -->
             <xs:enumeration value="DIM.DEGR"/>
             <!-- realis  -->
             <xs:enumeration value="ADV.T"/>
@@ -656,8 +665,26 @@
             <!-- realis  -->
             <xs:enumeration value="noun"/>
             <!-- realis  -->
-            <xs:enumeration value="deceased"/>
-            <!-- realis  -->
+            <xs:enumeration value="CLS.T">
+                <xs:annotation>
+                    <xs:documentation>
+                        Class term
+                        No  Form  Function  Examples 
+                        1  -to  tree, trunk  inchato‘tree’ 
+                        2  -shi  leaf  inchatoshi ‘tree leaf’ 
+                        3  -ki  seed, fruit  kahaiki ‘coffee bean’
+                        4  -kii  stick  inchakii ‘long, thin branch’ 
+                        5  -chee  thorn, spine  savorochee ‘thorn of cane reed’ 
+                        6  -pa  plantain  tyokoripa ‘white plantain’ 
+                        7  -Nki  snake  noonki ‘boa’ 
+                        8  -ki  social insect  imoki‘grub’ 
+                        9  -nari  wild, demonic  manironari ‘mythical personage’ 
+                        10  -tsori  distant kinship  yayatsori ‘woman’s cousin’ 
+                        11  -ni  deceased human referent  chookini ‘deceased sister’ 
+                        12  -satzi  human provenance  kishiisatzi ‘person from mountainous grasslands’
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="once"/>
             <!-- realis  -->
             <xs:enumeration value="wide"/>
@@ -723,9 +750,9 @@
 
             <!-- penultimate or last verbal slot -->
             <xs:enumeration value="1SG.O"/> <!-- found in source -->
-            <xs:enumeration value="2O"/> <!-- found in source -->
             <xs:enumeration value="3m.O"/> <!-- found in source -->
             <xs:enumeration value="3n.m.O"/> <!-- found in source -->
+            <xs:enumeration value="2O"/> <!-- found in source -->
             <xs:enumeration value="3O"/> <!-- found in source -->
             <xs:enumeration value="1PL.O"/> <!-- found in source -->
 

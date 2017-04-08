@@ -7618,8 +7618,8 @@ a=@K.LENITION.Ø@itsoki
         </sentence>
         <sentence source_id="A0001" id="3.37">
             <normal istandard="yes">Kimitaka avaniranki.</normal>
-            <annotation_first_level>kimit-ak-a a=vani=raNki</annotation_first_level>
-            <annotation_second_level>seem-PRF-REAL 1PL.poss=plot.of.land=ADV.P</annotation_second_level>
+            <annotation_first_level>kimit-ak-a a=va-ni=raNki</annotation_first_level>
+            <annotation_second_level>seem-PRF-REAL 1PL.poss=sown.plot.of.land-poss=ADV.P</annotation_second_level>
             <translation lang="en">It seems that this is our land [although wedon’t own it now]</translation>
             <words>
                 <word type="verb">
@@ -7643,16 +7643,20 @@ a=@K.LENITION.Ø@itsoki
                 </word>
                 <word type="noun">
                     <n>avaniranki</n>
-                    <afl>a=vani=raNki</afl>
-                    <asl>1PL.poss=plot.of.land=ADV.P</asl>
+                    <afl>a=va-ni=raNki</afl>
+                    <asl>1PL.poss=sown.plot.of.land-poss=ADV.P</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>a</e_afl>
                             <e_asl>1PL.poss</e_asl>
                         </element>
                         <element sign="equal;isroot:yes">
-                            <e_afl>vani</e_afl>
-                            <e_asl>plot.of.land</e_asl>
+                            <e_afl>va</e_afl>
+                            <e_asl>sown.plot.of.land</e_asl>
+                        </element>
+                        <element sign="hyphen">
+                            <e_afl>ni</e_afl>
+                            <e_asl>poss</e_asl>
                         </element>
                         <element sign="equal">
                             <e_afl>raNki</e_afl>

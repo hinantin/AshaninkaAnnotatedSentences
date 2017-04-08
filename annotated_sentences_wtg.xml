@@ -17846,8 +17846,8 @@ a=@K.LENITION.Ø@itsoki
         </sentence>
         <sentence source_id="A0001" id="3.186">
             <normal istandard="yes">–Aviroka tzimatsi piyahaite pivaniki. Avirokaha tzimatsima? Avintsi antamitaki pivani.</normal>
-            <annotation_first_level>aviroka tzimatsi pi=kahai-te pi=vani-ki aviroka=ha tzimatsi=ma avintsi aNtami-t-ak-i pi=vani</annotation_first_level>
-            <annotation_second_level>you EXIST 2poss=coffee-poss 2poss=plot-LOC you=EMPH EXIST=DUB you.C.F woods-EP-PRF-REAL 2poss=plot</annotation_second_level>
+            <annotation_first_level>aviroka tzimatsi pi=kahai-te pi=va-ni-ki aviroka=ha tzimatsi=ma avintsi aNtami-t-ak-i pi=va-ni</annotation_first_level>
+            <annotation_second_level>you EXIST 2poss=coffee-poss 2poss=sown.plot.of.land-poss-LOC you=EMPH EXIST=DUB you.C.F woods-EP-PRF-REAL 2poss=sown.plot.of.land-poss</annotation_second_level>
             <translation lang="en">You have coffee on your land, do you grow any coffee on your land? Actually, you have a wooded lot.</translation>
             <words>
                 <word type="pronoun">
@@ -17893,16 +17893,20 @@ a=@K.LENITION.Ø@itsoki
                 </word>
                 <word type="noun">
                     <n>pivaniki</n>
-                    <afl>pi=vani-ki</afl>
-                    <asl>2poss=plot-LOC</asl>
+                    <afl>pi=va-ni-ki</afl>
+                    <asl>2poss=sown.plot.of.land-poss-LOC</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>pi</e_afl>
                             <e_asl>2poss</e_asl>
                         </element>
                         <element sign="equal;isroot:yes">
-                            <e_afl>vani</e_afl>
-                            <e_asl>plot</e_asl>
+                            <e_afl>va</e_afl>
+                            <e_asl>sown.plot.of.land</e_asl>
+                        </element>
+                        <element sign="hyphen">
+                            <e_afl>ni</e_afl>
+                            <e_asl>poss</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>ki</e_afl>
@@ -17976,16 +17980,20 @@ a=@K.LENITION.Ø@itsoki
                 </word>
                 <word type="noun">
                     <n>pivani</n>
-                    <afl>pi=vani</afl>
-                    <asl>2poss=plot</asl>
+                    <afl>pi=va-ni</afl>
+                    <asl>2poss=sown.plot.of.land-poss</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>pi</e_afl>
                             <e_asl>2poss</e_asl>
                         </element>
                         <element sign="equal;isroot:yes">
-                            <e_afl>vani</e_afl>
-                            <e_asl>plot</e_asl>
+                            <e_afl>va</e_afl>
+                            <e_asl>sown.plot.of.land</e_asl>
+                        </element>
+                        <element sign="hyphen">
+                            <e_afl>ni</e_afl>
+                            <e_asl>poss</e_asl>
                         </element>
                     </elements>
                 </word>

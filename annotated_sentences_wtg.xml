@@ -8461,7 +8461,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.55">
             <normal istandard="yes">Paminaite katsarikentsicharini.</normal>
             <annotation_first_level>p=amin-a-it-e katsariki-ntsi-chaari-ni</annotation_first_level>
-            <annotation_second_level>2S=look.for-EP-ICPL-IRR testicle-ABS-dark.water-AUG</annotation_second_level>
+            <annotation_second_level>2S=look.for-EP-ICPL-IRR testicle-ABS-dark.water-CL:river</annotation_second_level>
             <translation lang="en">Go look for the River of Testicles.</translation>
             <words>
                 <word type="verb">
@@ -8494,7 +8494,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="noun">
                     <n>katsarikentsicharini</n>
                     <afl>katsariki-ntsi-chaari-ni</afl>
-                    <asl>testicle-ABS-dark.water-AUG</asl>
+                    <asl>testicle-ABS-dark.water-CL:river</asl>
                     <elements>
                         <element sign="none;isroot:yes">
                             <e_afl>katsariki</e_afl>
@@ -8510,7 +8510,7 @@ a=@K.LENITION.Ø@itsoki
                         </element> <!-- dark.water -->
                         <element sign="hyphen">
                             <e_afl>ni</e_afl>
-                            <e_asl>AUG</e_asl>
+                            <e_asl>CL:river</e_asl>
                         </element>
                     </elements>
                 </word>

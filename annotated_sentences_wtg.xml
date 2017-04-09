@@ -7545,8 +7545,8 @@ a=@K.LENITION.Ø@itsoki
         </sentence>
         <sentence source_id="A0001" id="3.36">
             <normal istandard="yes">Picheckero inchapanki novanikintave.</normal>
-            <annotation_first_level>pi=chek-e=ro incha-paNki no=vani-ki=Nta=ve</annotation_first_level>
-            <annotation_second_level>2A=cut-IRR=3m.O plant-plank 1SG.poss=plot-LOC=ADV=EXCL</annotation_second_level>
+            <annotation_first_level>pi=chek-e=ro incha-paNki no=va-ni-ki=Nta=ve</annotation_first_level>
+            <annotation_second_level>2A=cut-IRR=3m.O plant-plank 1SG.poss=sown.plot.of.land-poss-LOC=ADV=EXCL</annotation_second_level>
             <translation lang="en">Please cut the wood on my land.</translation>
             <words>
                 <word type="verb">
@@ -7589,16 +7589,20 @@ a=@K.LENITION.Ø@itsoki
                 </word>
                 <word type="noun">
                     <n>novanikintave</n>
-                    <afl>no=vani-ki=Nta=ve</afl>
-                    <asl>1SG.poss=plot-LOC=ADV=EXCL</asl>
+                    <afl>no=va-ni-ki=Nta=ve</afl>
+                    <asl>1SG.poss=sown.plot.of.land-poss-LOC=ADV=EXCL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>no</e_afl>
                             <e_asl>1SG.poss</e_asl>
                         </element>
                         <element sign="equal;isroot:yes">
-                            <e_afl>vani</e_afl>
-                            <e_asl>plot</e_asl>
+                            <e_afl>va</e_afl>
+                            <e_asl>sown.plot.of.land</e_asl>
+                        </element>
+                        <element sign="hyphen">
+                            <e_afl>ni</e_afl>
+                            <e_asl>poss</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>ki</e_afl>

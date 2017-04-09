@@ -2,7 +2,6 @@ BaseXClient.py
 BaseXClient.pyc
 ConfigFile.ini
 Makefile
-README.md
 correct_sentence_annotations.txt
 executequeries.sh
 list_entries_for_schema.pl

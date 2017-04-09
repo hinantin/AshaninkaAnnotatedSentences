@@ -18008,8 +18008,8 @@ a=@K.LENITION.Ø@itsoki
             </words>
         </sentence>
         <sentence source_id="A0001" id="3.187">
-            <normal istandard="yes">Aviroka apiteroite antatsini ovantsi.</normal>
-            <annotation_first_level>aviroka apite-ro-ite aNt-atsi=ni ovantsi</annotation_first_level>
+            <normal istandard="yes">Aviroka apiteroite antatsini ova-ntsi.</normal>
+            <annotation_first_level>aviroka apite-ro-ite aNt-atsi=ni ova-ntsi</annotation_first_level>
             <annotation_second_level>you two-NMZ-PL work-STAT=REL plot.of.land</annotation_second_level>
             <translation lang="en">You two who will work on the land.</translation>
             <words>
@@ -18064,12 +18064,16 @@ a=@K.LENITION.Ø@itsoki
                 </word>
                 <word type="noun">
                     <n>ovantsi</n>
-                    <afl>ovantsi</afl>
-                    <asl>plot.of.land</asl>
+                    <afl>ova-ntsi</afl>
+                    <asl>sown.plot.of.land-ABS</asl>
                     <elements>
                         <element sign="none;isroot:yes">
-                            <e_afl>ovantsi</e_afl>
-                            <e_asl>plot.of.land</e_asl>
+                            <e_afl>ova</e_afl>
+                            <e_asl>sown.plot.of.land</e_asl>
+                        </element>
+                        <element sign="hyphen">
+                            <e_afl>ntsi</e_afl>
+                            <e_asl>ABS</e_asl>
                         </element>
                     </elements>
                 </word>

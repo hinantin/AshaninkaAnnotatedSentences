@@ -49709,7 +49709,7 @@ a=@K.LENITION.Ø@itsoki
         </sentence>
         <sentence source_id="A0001" id="B.1.3.">
             <normal istandard="yes">Arika ontzime nante iroka ikantaitziri matematika, maatsi ivapeete.</normal>
-            <annotation_first_level>arika o=N-tzim-e n=aNt-e iroka i=kaNt-ai-tz-i=ri matematika tzimtsi i=vapee-te</annotation_first_level>
+            <annotation_first_level>arika o=N-tzim-e n=aNt-e iroka i=kaNt-ai-tz-i=ri matematika tzimatsi i=vapee-te</annotation_first_level>
             <annotation_second_level>when 3n.m.S=IRR-have-IRR 1SG.S=do-IRR DEM 3m.A=say-IMP.P-EP-REAL=3m.O math EXIST 3m.poss=paper-poss</annotation_second_level>
             <translation lang="en">When I have to do this, they call it math, they have notebooks.</translation>
             <words>
@@ -49821,11 +49821,11 @@ a=@K.LENITION.Ø@itsoki
                 </word>
                 <word type="other">
                     <n>maatsi</n>
-                    <afl>tzimtsi</afl>
+                    <afl>tzimatsi</afl>
                     <asl>EXIST</asl>
                     <elements>
                         <element sign="none;isroot:yes">
-                            <e_afl>tzimtsi</e_afl>
+                            <e_afl>tzimatsi</e_afl>
                             <e_asl>EXIST</e_asl>
                         </element>
                     </elements>
@@ -59583,7 +59583,7 @@ outside-LOC green 1SG.S=be-EP-REAL inside-LOC 1SG.S=be.white-EP-PROG-REAL WH 1SG
                         </element>
                     </elements>
                 </word>
-                <word type="other">
+                <word type="noun">
                     <n>kenashiri</n>
                     <afl>kenashiri</afl>
                     <asl>green</asl>

@@ -17,6 +17,16 @@ empty set=Ø
             <annotation_first_level>no=sai-t-aty-e=ro nihaa</annotation_first_level>
             <annotation_second_level>1SG.A=pour-EP-PROG-IRR=3n.m.O water</annotation_second_level>
             <translation lang="en">I will pour the water.</translation>
+            <morphology>
+
+
+nosaitatyero	[no-][VPers][1SG.S/A+][--][=sai][VRoot][=to.pour (ES: verter); to.empty.sth. (ES: vaciar)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+nihaa	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
+
+</morphology>
             <words>
                 <word type="verb">
                     <n>Nosaitatyero</n>

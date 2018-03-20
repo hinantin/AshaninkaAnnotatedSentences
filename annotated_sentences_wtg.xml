@@ -20,7 +20,7 @@ empty set=Ø
             <morphology>
 
 
-nosaitatyero	[no-][VPers][1SG.S/A+][--][=sai][VRoot][=to.pour (ES: verter); to.empty.sth. (ES: vaciar)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-e][+IRR]e[--][=ro][+3n.m.O]
+nosaitatyero	[no-][VPers][1SG.A+][--][=sai][VRoot][=to.pour (ES: verter); to.empty.sth. (ES: vaciar)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-e][+IRR]e[--][=ro][+3n.m.O]
 
 nihaa	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 
@@ -12258,7 +12258,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.112">
             <normal istandard="yes">Te yayero okaratzi iyotakaivitaitarira.</normal>
             <annotation_first_level>te y=ay-e=ro o=kara-tz-i i=yot-ak-a-vi-t-ai-t-a=ri=ra</annotation_first_level>
-            <annotation_second_level>NEG.REAL 3m.A=take-IRR=3n.m.O 3n.m.S=COP.C-EP-REAL 3m.A=know-CAUS-EP-FRUS-EP-IMP.P-REAL-EP=3m.O=ADV</annotation_second_level>
+            <annotation_second_level>NEG.REAL 3m.A=take-IRR=3n.m.O 3n.m.S=COP.CAP-EP-REAL 3m.A=know-CAUS-EP-FRUS-EP-IMP.P-REAL-EP=3m.O=ADV</annotation_second_level>
             <translation lang="en">He didn’t grasp all [material] which was taught to him.</translation>
             <words>
                 <word type="other">
@@ -12298,7 +12298,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=COP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -12306,7 +12306,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>COP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -12374,7 +12374,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.113">
             <normal istandard="yes">Tzimatsi otomi okaratzi mava.</normal>
             <annotation_first_level>tzimatsi o=tomi o=kara-tz-i mava</annotation_first_level>
-            <annotation_second_level>EXIST 3n.m.poss=son 3n.m.S=CAP.C-EP-REAL three</annotation_second_level>
+            <annotation_second_level>EXIST 3n.m.poss=son 3n.m.S=COP.CAP-EP-REAL three</annotation_second_level>
             <translation lang="en">She had three children.</translation>
             <words>
                 <word type="verb">
@@ -12406,7 +12406,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=CAP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -12414,7 +12414,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -20685,7 +20685,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.217">
             <normal istandard="yes">-Tsika okarate kireeki pimpinatenari? -Osheki.</normal>
             <annotation_first_level>tsika o=kara-t-e kireeki pi=N-pina-t-e=na=ri osheki</annotation_first_level>
-            <annotation_second_level>WH 3n.m.S=CAP.C-EP-IRR money 2A=IRR-pay-EP-IRR=1SG.O=REL many</annotation_second_level>
+            <annotation_second_level>WH 3n.m.S=COP.CAP-EP-IRR money 2A=IRR-pay-EP-IRR=1SG.O=REL many</annotation_second_level>
             <translation lang="en">How much money will you pay me? A lot.</translation>
             <words>
                 <word type="other">
@@ -20702,7 +20702,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okarate</n>
                     <afl>o=kara-t-e</afl>
-                    <asl>3n.m.S=CAP.C-EP-IRR</asl>
+                    <asl>3n.m.S=COP.CAP-EP-IRR</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -20710,7 +20710,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>t</e_afl>
@@ -20784,7 +20784,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.218">
             <normal istandard="yes">-Tsika okaratzi nihaa pinintziri? -Tekatsi.</normal>
             <annotation_first_level>tsika o=kara-tz-i nihaa pi=niNt-tz-i=ri tekatsi</annotation_first_level>
-            <annotation_second_level>WH 3n.m.S=CAP.C-EP-REAL water 2S=want-EP-REAL=REL none</annotation_second_level>
+            <annotation_second_level>WH 3n.m.S=COP.CAP-EP-REAL water 2S=want-EP-REAL=REL none</annotation_second_level>
             <translation lang="en">How much water do you need? None.</translation>
             <words>
                 <word type="other">
@@ -20801,7 +20801,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=CAP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -20809,7 +20809,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -20875,7 +20875,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.219">
             <normal istandard="yes">-Tsika okaratzi pimpokahe? -Shetenitaima.</normal>
             <annotation_first_level>tsika o=kara-tz-i pi=N-pok-ah-e sheteni=taima</annotation_first_level>
-            <annotation_second_level>WH 3n.m.S=CAP.C-EP-REAL 2S=IRR-come-REGR-IRR afternoon=DUB</annotation_second_level>
+            <annotation_second_level>WH 3n.m.S=COP.CAP-EP-REAL 2S=IRR-come-REGR-IRR afternoon=DUB</annotation_second_level>
             <translation lang="en">When will you come back? In the afternoon.</translation>
             <words>
                 <word type="other">
@@ -20892,7 +20892,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=CAP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -20900,7 +20900,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -20959,7 +20959,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.220">
             <normal istandard="yes">-Tsika okarateka antavaite? -Ikitaitzimataki.</normal>
             <annotation_first_level>tsika o=kara-t-e=ka aNt-a-vai-t-e i=kitai-tz-ima-t-ak-e</annotation_first_level>
-            <annotation_second_level>WH 3n.m.S=CAP.C-EP-IRR=Q work-EP-DUR-EP-IRR 3m.S=be.morning-EP-INCH-EP-PRF-IRR</annotation_second_level>
+            <annotation_second_level>WH 3n.m.S=COP.CAP-EP-IRR=Q work-EP-DUR-EP-IRR 3m.S=be.morning-EP-INCH-EP-PRF-IRR</annotation_second_level>
             <translation lang="en">How much time will we work? Till dawn.</translation>
             <words>
                 <word type="other">
@@ -20976,7 +20976,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okarateka</n>
                     <afl>o=kara-t-e=ka</afl>
-                    <asl>3n.m.S=CAP.C-EP-IRR=Q</asl>
+                    <asl>3n.m.S=COP.CAP-EP-IRR=Q</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -20984,7 +20984,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>t</e_afl>
@@ -25955,7 +25955,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="4.20">
             <normal istandard="yes">Ari okaratzi ikenkitsatakainari aanini.</normal>
             <annotation_first_level>[ari o=kara-tz-i]MC [i=keNkitsa-t-ak-a-i=na=ri aani-ni]RC</annotation_first_level>
-            <annotation_second_level>PP 3n.m.S=CAP.C-EP-REAL 3m.A=tell-EP-PRF-REGR-REAL=1SG.O=REL grandpa-deceased</annotation_second_level>
+            <annotation_second_level>PP 3n.m.S=COP.CAP-EP-REAL 3m.A=tell-EP-PRF-REGR-REAL=1SG.O=REL grandpa-deceased</annotation_second_level>
             <translation lang="en">This is all [the amount] that my late grandpa told me.</translation>
             <words>
                 <word type="other">
@@ -25972,7 +25972,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=CAP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -25980,7 +25980,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -26051,7 +26051,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="4.21">
             <normal istandard="yes">Teha, nosampitemi tsika okaratzi pikovakotenari.</normal>
             <annotation_first_level>[te=ha no=saNpi-t-e=mi tsika o=kara-tz-i]MC [pi=kov-ako-t-e=na=ri]RC</annotation_first_level>
-            <annotation_second_level>NEG=EMPH 1SG.A=ask-EP-IRR=2O WH 3n.m.S=CAP.C-EP-REAL 2A=want-APPL-EP-IRR=1SG.O=REL</annotation_second_level>
+            <annotation_second_level>NEG=EMPH 1SG.A=ask-EP-IRR=2O WH 3n.m.S=COP.CAP-EP-REAL 2A=want-APPL-EP-IRR=1SG.O=REL</annotation_second_level>
             <translation lang="en">No, I’ll ask you about the amount that you’ll charge me.</translation>
             <words>
                 <word type="other">
@@ -26110,7 +26110,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=CAP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -26118,7 +26118,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -35387,7 +35387,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="4.119">
             <normal istandard="yes">Naari ironyaaka okaratzi nantzirika naari kameetsatakirika o te onkameetsate?</normal>
             <annotation_first_level>[naari ironyaaka o=kara-tz-i n=aNt-tz-i=ri=ka naari]DE [kameetsa-t-ak-i=ri=ka o te o=N-kameetsa-t-e]ME</annotation_first_level>
-            <annotation_second_level>I now 3n.m.S=CAP.C-EP-REAL 1SG.S=do-EP-REAL=REL=Q I be.good-EP-PRF-REAL=REL=Q or NEG.REAL 3n.m.S=IRR-be.good-EP-IRR</annotation_second_level>
+            <annotation_second_level>I now 3n.m.S=COP.CAP-EP-REAL 1SG.S=do-EP-REAL=REL=Q I be.good-EP-PRF-REAL=REL=Q or NEG.REAL 3n.m.S=IRR-be.good-EP-IRR</annotation_second_level>
             <translation lang="en">Is it good or bad what I do? (lit. That what I do is good or bad?)</translation>
             <words>
                 <word type="other">
@@ -35419,7 +35419,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=CAP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -35427,7 +35427,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -49271,7 +49271,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="B.1.1.">
             <normal istandard="yes">Ironyaaka nonkinkitsatavake okaratzi nantapintziri kitaiterikipaye onkantya namantantavaityari novarite namiri novankoki novakaiyariri neentsitepatsaini.</normal>
             <annotation_first_level>Ironyaa=ka no=N-kiNkitsa-t-av-ak-e o=kara-tz-i n=aNt-apiNt-tz-i=ri kitaiteri-ki-paye o=N-kaNt-ia n=amaNt-aNt-av-a-it-ia=ri n=ovari-te n=am-i=ri no=paNko-ki n=ov-ak-aiy-a=ri=ri n=eentsi-te-patsaini</annotation_first_level>
-            <annotation_second_level>now=EMPH 1SG.S=IRR-tell-EP-DIR-PRF-IRR 3n.m.S=COP.C-EP-REAL 1SG.S=do-HAB-EP-REAL=REL day-LOC-PL 3n.m.S=IRR-happen-IRR 1SG.S=buy-APPL.REAS-DIR-EP-ICPL-IRR=REL 1SG.poss=food-poss 1SG.A=bring-REAL=REL 1SG.poss=house-LOC 1SG.A=eat-CAUS-PL-REAL=3m.O=REL 1SG.poss=child-poss-DIM</annotation_second_level>
+            <annotation_second_level>now=EMPH 1SG.S=IRR-tell-EP-DIR-PRF-IRR 3n.m.S=COP.CAP-EP-REAL 1SG.S=do-HAB-EP-REAL=REL day-LOC-PL 3n.m.S=IRR-happen-IRR 1SG.S=buy-APPL.REAS-DIR-EP-ICPL-IRR=REL 1SG.poss=food-poss 1SG.A=bring-REAL=REL 1SG.poss=house-LOC 1SG.A=eat-CAUS-PL-REAL=3m.O=REL 1SG.poss=child-poss-DIM</annotation_second_level>
             <translation lang="en">Now I will tell you all that I do during [all] days in order to buy food that I bring to my house to feed my children.</translation>
             <words>
                 <word type="other">
@@ -49327,7 +49327,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=COP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -49335,7 +49335,7 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>COP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -56890,12 +56890,12 @@ no=tomi pashini i=yo-t-ak-i=ro irirori y=a-an-ak-i i=iriki-te irirori
 49.
 Irotaki okaratzi nokamantzimiri maaroni, okaratzi nantziri kitaiteripayeka.
 irotaki o=kara-tz-i no=kamaNt-tz-i=mi=ri maaroni o=kara-tz-i n=aNt-tz-i=ri kitaiteri-paye=ka
-FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1SG.S=do-EP-REAL=REL day-PL=DEM
+FOC 3n.m.S=COP.CAP-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.CAP-EP-REAL 1SG.S=do-EP-REAL=REL day-PL=DEM
 'This is all that I was telling you, all that I do these days.'
       </annotation_source>
             <normal istandard="yes">Irotaki okaratzi nokamantzimiri maaroni, okaratzi nantziri kitaiteripayeka.</normal>
             <annotation_first_level>irotaki o=kara-tz-i no=kamaNt-tz-i=mi=ri maaroni o=kara-tz-i n=aNt-tz-i=ri kitaiteri-paye=ka</annotation_first_level>
-            <annotation_second_level>FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1SG.S=do-EP-REAL=REL day-PL=DEM</annotation_second_level>
+            <annotation_second_level>FOC 3n.m.S=COP.CAP-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.CAP-EP-REAL 1SG.S=do-EP-REAL=REL day-PL=DEM</annotation_second_level>
             <translation lang="en">'This is all that I was telling you, all that I do these days.'</translation>
             <words>
                 <word type="pronoun">
@@ -56912,7 +56912,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1S
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=COP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -56920,7 +56920,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1S
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>COP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -56977,7 +56977,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1S
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=COP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -56985,7 +56985,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=inform-EP-REAL=2O=REL all 3n.m.S=COP.C-EP-REAL 1S
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>COP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -58148,12 +58148,12 @@ PP 1PL.A=IRR-buy-PRF-IRR=3m.O sugar bread 1PL.A=eat-early-IRR=3m.O 3n.m.S=be.mor
 58.
 Irotaki okaratzi nantziri.
 irotaki o=kara-tz-i n=aNt-tz-i=ri
-FOC 3n.m.S=COP.C-EP-REAL 1SG.A=do-EP-REAL=REL
+FOC 3n.m.S=COP.CAP-EP-REAL 1SG.A=do-EP-REAL=REL
 ‘This is all that I do.’
       </annotation_source>
             <normal istandard="yes">Irotaki okaratzi nantziri.</normal>
             <annotation_first_level>irotaki o=kara-tz-i n=aNt-tz-i=ri</annotation_first_level>
-            <annotation_second_level>FOC 3n.m.S=COP.C-EP-REAL 1SG.A=do-EP-REAL=REL</annotation_second_level>
+            <annotation_second_level>FOC 3n.m.S=COP.CAP-EP-REAL 1SG.A=do-EP-REAL=REL</annotation_second_level>
             <translation lang="en">‘This is all that I do.’</translation>
             <words>
                 <word type="pronoun">
@@ -58170,7 +58170,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=do-EP-REAL=REL
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=COP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -58178,7 +58178,7 @@ FOC 3n.m.S=COP.C-EP-REAL 1SG.A=do-EP-REAL=REL
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>COP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -58715,12 +58715,12 @@ when 3m.A=IRR-treat-IRR=1SG.O when 3n.m.A=IRR-hit-DIR-REGR-IRR=1SG.O little go-E
 62.
 Ari okaratzi ironyaaka nokinkitsatavairi, paasonki.
 ari o=kara-tz-i ironyaaka no=kiNkitsa-t-av-a-i=ri paasoNki
-PP 3n.m.S=COP.C-EP-REAL now 1SG.A=tell-EP-DIR-EP-REAL=REL thank.you
+PP 3n.m.S=COP.CAP-EP-REAL now 1SG.A=tell-EP-DIR-EP-REAL=REL thank.you
 'This is all now that I tell them, thank you.'
       </annotation_source>
             <normal istandard="yes">Ari okaratzi ironyaaka nokinkitsatavairi, paasonki.</normal>
             <annotation_first_level>ari o=kara-tz-i ironyaaka no=kiNkitsa-t-av-a-i=ri paasoNki</annotation_first_level>
-            <annotation_second_level>PP 3n.m.S=COP.C-EP-REAL now 1SG.A=tell-EP-DIR-EP-REAL=REL thank.you</annotation_second_level>
+            <annotation_second_level>PP 3n.m.S=COP.CAP-EP-REAL now 1SG.A=tell-EP-DIR-EP-REAL=REL thank.you</annotation_second_level>
             <translation lang="en">'This is all now that I tell them, thank you.'</translation>
             <words>
                 <word type="other">
@@ -58737,7 +58737,7 @@ PP 3n.m.S=COP.C-EP-REAL now 1SG.A=tell-EP-DIR-EP-REAL=REL thank.you
                 <word type="verb">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=COP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -58745,7 +58745,7 @@ PP 3n.m.S=COP.C-EP-REAL now 1SG.A=tell-EP-DIR-EP-REAL=REL thank.you
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>COP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>
@@ -61277,12 +61277,12 @@ no=p-an-ak-i=ro no=hananiki-te
 B.4.16.
 Irotakitya arimantetakya, okaratzi opimantari irotakima; aminirota osaikera.
 irotaki=tya arima-aNt-e=ta=kya o=kara-tz-i o=pimaNt-a=ri irotaki=ma amin-e=ro=ta osaikira
-FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=CAP.C-EP-REAL 3n.m.S=sell-REAL=REL FOC=DUB see-IRR=3n.m.O=OPT tomorrow
+FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=COP.CAP-EP-REAL 3n.m.S=sell-REAL=REL FOC=DUB see-IRR=3n.m.O=OPT tomorrow
 ‘That’s why it will probably be enough what you’ve sold, we’ll see tomorrow.’
 </annotation_source>
             <normal istandard="yes">Irotakitya arimantetakya, okaratzi opimantari irotakima; aminirota osaikera.</normal>
             <annotation_first_level>irotaki=tya arima-aNt-e=ta=kya o=kara-tz-i o=pimaNt-a=ri irotaki=ma amin-e=ro=ta osaikira</annotation_first_level>
-            <annotation_second_level>FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=CAP.C-EP-REAL 3n.m.S=sell-REAL=REL FOC=DUB see-IRR=3n.m.O=OPT tomorrow</annotation_second_level>
+            <annotation_second_level>FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=COP.CAP-EP-REAL 3n.m.S=sell-REAL=REL FOC=DUB see-IRR=3n.m.O=OPT tomorrow</annotation_second_level>
             <translation lang="en">‘That’s why it will probably be enough what you’ve sold, we’ll see tomorrow.’</translation>
             <words>
                 <word type="pronoun">
@@ -61330,7 +61330,7 @@ FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=CAP.C-EP-REAL 3n.m.S=sell-REAL=REL 
                 <word type="other">
                     <n>okaratzi</n>
                     <afl>o=kara-tz-i</afl>
-                    <asl>3n.m.S=CAP.C-EP-REAL</asl>
+                    <asl>3n.m.S=COP.CAP-EP-REAL</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>o</e_afl>
@@ -61338,7 +61338,7 @@ FOC=EMPH maybe-APPL.REAS-IRR=OPT=EMPH 3n.m.S=CAP.C-EP-REAL 3n.m.S=sell-REAL=REL 
                         </element>
                         <element sign="equal;isroot:yes">
                             <e_afl>kara</e_afl>
-                            <e_asl>CAP.C</e_asl>
+                            <e_asl>COP.CAP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>tz</e_afl>

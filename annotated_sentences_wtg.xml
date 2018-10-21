@@ -12258,7 +12258,7 @@ a=@K.LENITION.Ø@itsoki
         <sentence source_id="A0001" id="3.112">
             <normal istandard="yes">Te yayero okaratzi iyotakaivitaitarira.</normal>
             <annotation_first_level>te y=ay-e=ro o=kara-tz-i i=yot-ak-a-vi-t-ai-t-a=ri=ra</annotation_first_level>
-            <annotation_second_level>NEG.REAL 3m.A=take-IRR=3n.m.O 3n.m.S=COP.CAP-EP-REAL 3m.A=know-CAUS-EP-FRUS-EP-IMP.P-REAL-EP=3m.O=ADV</annotation_second_level>
+            <annotation_second_level>NEG.REAL 3m.A=take-IRR=3n.m.O 3n.m.S=COP.CAP-EP-REAL 3m.A=know-CAUS-EP-FRUS-EP-IMP.P-EP-REAL=3m.O=ADV</annotation_second_level>
             <translation lang="en">He didn’t grasp all [material] which was taught to him.</translation>
             <words>
                 <word type="other">
@@ -12321,7 +12321,7 @@ a=@K.LENITION.Ø@itsoki
                 <word type="verb">
                     <n>iyotakaivitaitarira</n>
                     <afl>i=yot-ak-a-vi-t-ai-t-a=ri=ra</afl>
-                    <asl>3m.A=know-CAUS-EP-FRUS-EP-IMP.P-REAL-EP=3m.O=ADV</asl>
+                    <asl>3m.A=know-CAUS-EP-FRUS-EP-IMP.P-EP-REAL=3m.O=ADV</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>i</e_afl>
@@ -12353,11 +12353,11 @@ a=@K.LENITION.Ø@itsoki
                         </element>
                         <element sign="hyphen">
                             <e_afl>t</e_afl>
-                            <e_asl>REAL</e_asl>
+                            <e_asl>EP</e_asl>
                         </element>
                         <element sign="hyphen">
                             <e_afl>a</e_afl>
-                            <e_asl>EP</e_asl>
+                            <e_asl>REAL</e_asl>
                         </element>
                         <element sign="equal">
                             <e_afl>ri</e_afl>
@@ -64283,8 +64283,8 @@ she 2S=say-IRR 3m.A=write-EP-IRR=2O=OPT
         <sentence source_id="A0005" id="RIC.1.06.">
             <normal istandard="no">ikantaitzi pairani maaroni impokiropaye anyayetziri iroñaaka atziri inahetatzi saikatziri aka kipatsikika</normal>
             <nonstandard_annotation_first_level>icantaitzi pairani maaroni impoquiropayeni añaayetziri iroñaaca atziri inajeetatzi saicatziri aca Quipatsiquica</nonstandard_annotation_first_level>
-            <annotation_first_level>i=kaNt-ai-tz-i pairani maaroni iNpokiro-paye a=ny-a-ye-tzi=ri iroñaaka atziri i=na-he-t-atz-i saik-atz-i=ri aka kipatsi-ki=ka</annotation_first_level>
-            <annotation_second_level>3m.A=say-IMP.P-EP-REAL long.ago all star-PL 1PL.A=see-EP-DIST-REAL=3m.O today person 3m.S=be-PL-EP-PROG-REAL be.at-PROG-REAL=3m.O here earth-LOC=DEM</annotation_second_level>
+            <annotation_first_level>i=kaNt-ai-tz-i pairani maaroni iNpokiro-paye a=ny-a-ye-tz-i=ri iroñaaka atziri i=na-he-t-atz-i saik-atz-i=ri aka kipatsi-ki=ka</annotation_first_level>
+            <annotation_second_level>3m.A=say-IMP.P-EP-REAL long.ago all star-PL 1PL.A=see-EP-DIST-EP-REAL=3m.O today person 3m.S=be-PL-EP-PROG-REAL be.at-PROG-REAL=3m.O here earth-LOC=DEM</annotation_second_level>
             <translation lang="en">It is said that formerly all the stars that we see today, were persons who were living here in this ground</translation>
             <translation lang="es">Se dice que antiguamente todas las estrellas que vemos hoy, eran personas que vivían aquí en esta tierra</translation>
             <words>
@@ -64356,8 +64356,8 @@ she 2S=say-IRR 3m.A=write-EP-IRR=2O=OPT
                 </word>
                 <word type="verb">
                     <n>anyayetziri</n>
-                    <afl>a=ny-a-ye-tzi=ri</afl>
-                    <asl>1PL.A=see-EP-DIST-REAL=3m.O</asl>
+                    <afl>a=ny-a-ye-tz-i=ri</afl>
+                    <asl>1PL.A=see-EP-DIST-EP-REAL=3m.O</asl>
                     <elements>
                         <element sign="none">
                             <e_afl>a</e_afl>
@@ -64376,7 +64376,11 @@ she 2S=say-IRR 3m.A=write-EP-IRR=2O=OPT
                             <e_asl>DIST</e_asl>
                         </element>
                         <element sign="hyphen">
-                            <e_afl>tzi</e_afl>
+                            <e_afl>tz</e_afl>
+                            <e_asl>EP</e_asl>
+                        </element>
+                        <element sign="hyphen">
+                            <e_afl>i</e_afl>
                             <e_asl>REAL</e_asl>
                         </element>
                         <element sign="equal">
